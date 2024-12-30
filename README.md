@@ -1,4 +1,4 @@
-## Hi there !
+## Hi there ! my firts commit in bash
 
 Victor Miletic is a Information Systems Engineering.
 
