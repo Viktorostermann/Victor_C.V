@@ -1,4 +1,4 @@
-## Hi there ! my firts commit in bash
+## Hi there ! my second clone y first pull
 
 Victor Miletic is a Information Systems Engineering.
 
