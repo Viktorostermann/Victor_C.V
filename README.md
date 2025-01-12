@@ -9,4 +9,4 @@ Victor Miletic is a Information Systems Engineering.
 - 📫 How to reach me: viktoremiletic@gmail.com.
 - 😄 Pronouns: He-Viktore
 
---> Thanks a lot!
+--> Thank you everybody and especial greeting ( ConquerBlocks ).
