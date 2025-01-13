@@ -1,4 +1,4 @@
-## Hi there ! 
+## Hi there !                (Modificando readme)
 
 Victor Miletic is a Information Systems Engineering.
 
@@ -8,5 +8,4 @@ Victor Miletic is a Information Systems Engineering.
 - 💬 Ask me about : Linux Ubuntu / Python / Linux Terminal / Git / Linux (WSL) / VsCode / Arduino / Microsfot Excel / Microsoft Project / SAP ERP. MM, PM, BO / Spanish. Croatian and English languaje. 
 - 📫 How to reach me: viktoremiletic@gmail.com.
 - 😄 Pronouns: He-Viktore
-
 --> Thank you everybody and especial greeting ( ConquerBlocks ).
