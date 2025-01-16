@@ -1,4 +1,4 @@
-## Hi there !                (Modificando readme)
+## Hi there !
 
 Victor Miletic is a Information Systems Engineering.
 
