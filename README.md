@@ -1,6 +1,6 @@
 ## Hi there !
 
-Victor Miletic is a Information Systems Engineering.
+Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-Stack developer and a technology blockchain enthusiast.
 
 - 🌱 I’m currently learning a FullStack Master of Software Development (ConquerBlocks - España). English and Croatian lenguaje (Ilades - Argentina). 
 - 👯 I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino  
