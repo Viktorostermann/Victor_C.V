@@ -1,11 +1,12 @@
 
 
 
-![image](https://github.com/user-attachments/assets/4535f94a-bf51-4cb6-8318-a82cb4fab389) 
-## Hi there !
-Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-Stack developer and a technology blockchain enthusiast.
+![image](https://github.com/user-attachments/assets/4535f94a-bf51-4cb6-8318-a82cb4fab389)
 
-- 🌱 I’m currently learning a FullStack Master of Software Development (ConquerBlocks - España). English and Croatian lenguaje (Ilades - Argentina).
+*  Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-Stack developer and a technology blockchain enthusiast.
+- 🌱 I’m currently learning a FullStack Master of Software Development https://www.conquerx.com/escuelas#conquerblocks
+
+- 🌱 I’m currently learning a Croatian lenguaje (Ilades - Argentina). <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi">https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html>
    
 - 👯 I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino
   
@@ -15,6 +16,5 @@ Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-
   
 - 📫 How to reach me: viktoremiletic@gmail.com.
   
-- 😄 Pronouns: Viktore
-  
---> Thank you everybody and especial greeting ( ConquerBlocks ).
+- 😄 Pronouns: Viktore  [ Conquer Ranks Bronce III ]                         
+![image](https://github.com/user-attachments/assets/34df68d7-878a-465a-87f9-571d5019e7da)
