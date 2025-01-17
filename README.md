@@ -12,7 +12,7 @@
   
 - 🤔 I’m looking for help with : Looking for job off  Software Development (Jr).
   
-- 💬 Ask me about : Linux Ubuntu and Windows OS / Python / Linux Terminal / Git / Linux (WSL) / VsCode / Arduino / Microsfot Excel / Microsoft Project / SAP ERP. MM, PM, BO / Spanish. Croatian and English languaje.
+- 💬 Ask me about : Linux Ubuntu and Windows OS / Python / Linux Terminal / Git / Linux (WSL) / VsCode / Arduino / Virtual Machine / Microsfot Excel / Microsoft Project / SAP ERP. MM, PM, BO / Spanish. Croatian and English languaje.
 
 - 📫 How to reach me: viktoremiletic@gmail.com.
   
