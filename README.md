@@ -1,6 +1,8 @@
 
-## Hi there !
 
+
+![image](https://github.com/user-attachments/assets/4535f94a-bf51-4cb6-8318-a82cb4fab389) 
+## Hi there !
 Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-Stack developer and a technology blockchain enthusiast.
 
 - 🌱 I’m currently learning a FullStack Master of Software Development (ConquerBlocks - España). English and Croatian lenguaje (Ilades - Argentina).
@@ -16,4 +18,3 @@ Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-
 - 😄 Pronouns: Viktore
   
 --> Thank you everybody and especial greeting ( ConquerBlocks ).
-![image](https://github.com/user-attachments/assets/ca830163-aaf0-448e-8aab-f4767668833a)
