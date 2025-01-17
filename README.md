@@ -18,3 +18,4 @@ Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-
 - 😄 Pronouns: Viktore
   
 --> Thank you everybody and especial greeting ( ConquerBlocks ).
+![—Pngtree—ppt template background illustration simple_934732](https://github.com/user-attachments/assets/00a452ec-8864-4117-9d76-e93d45924d25)
