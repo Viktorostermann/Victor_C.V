@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ca830163-aaf0-448e-8aab-f4767668833a)
 
 ## Hi there !
 
@@ -17,3 +16,4 @@ Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-
 - 😄 Pronouns: Viktore
   
 --> Thank you everybody and especial greeting ( ConquerBlocks ).
+![image](https://github.com/user-attachments/assets/ca830163-aaf0-448e-8aab-f4767668833a)
