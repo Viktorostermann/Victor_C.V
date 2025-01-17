@@ -1,7 +1,8 @@
 
 
 
-![image](https://github.com/user-attachments/assets/4535f94a-bf51-4cb6-8318-a82cb4fab389)
+![image](https://github.com/user-attachments/assets/4535f94a-bf51-4cb6-8318-a82cb4fab389) ![image](https://github.com/user-attachments/assets/36cc9344-e526-4c97-ada9-a038c2bd3b46) ![image](https://github.com/user-attachments/assets/b5774315-7d2f-48b5-9f66-7fb327396e2c) ![image](https://github.com/user-attachments/assets/bdcd478a-a0a7-4e2f-af9a-766206cf5756) ![image](https://github.com/user-attachments/assets/0598a79b-9ed1-49bf-aa68-1eac97d71c47) ![image](https://github.com/user-attachments/assets/23417076-6501-419b-b8c7-b8d85c3871e3)
+
 
 *  Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-Stack developer and a technology blockchain enthusiast.
 - 🌱 I’m currently learning a FullStack Master of Software Development https://www.conquerx.com/escuelas#conquerblocks
