@@ -1,5 +1,3 @@
-## Curso completo de 5 horas y 45 lecciones para aprender a trabajar con Git & GitHub desde cero y para principiantes
-![](./Media/header.jpg)
 
 ## Hi there !
 
