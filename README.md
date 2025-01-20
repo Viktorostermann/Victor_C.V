@@ -1,8 +1,10 @@
 
-
-
 ![image](https://github.com/user-attachments/assets/4535f94a-bf51-4cb6-8318-a82cb4fab389)
-
+<h1 align="center"> <b>Hi!, I'm Victor Miletic </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+Everyone....&hearts;++;Self+taught+Arduino....;Full-Stack+Developer....;Computer+Engineer...;Croatian+English+and+others+language+student....;Active+Learner+and+Researcher....;Love+to+learn+new+stuffs..<3"></a>
+</p>
 *  Victor Miletic is a Information Systems Engineering, a passionate aspiring Full-Stack developer and a technology blockchain enthusiast.
 - 🌱 I’m currently learning a FullStack Master of Software Development https://www.conquerx.com/escuelas#conquerblocks
 
