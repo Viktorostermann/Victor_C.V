@@ -1,5 +1,5 @@
 
-<h1 align="Left">Hi, I'm Victor Miletic<h1 align="left"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105"/><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+<h1 align="down">Hi, I'm Victor Miletic<h1 align="left"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105"/><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
 
 <h1 align="down"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic...;Victor+Miletic+is+a+Information+Systems+Engineering...;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)...;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert...;Self+taught+Arduino....;Croatian+English+and+others+language+student....;Active+Learner+and+Researcher....;A+technology+blockchain+and+Cripto+enthusiast...;Love+to+learn+new+stuffs..."></a>
  </h1>
@@ -18,7 +18,7 @@
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills</b> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
   
 ### 👨‍💻 Programming Languages
 <p>
