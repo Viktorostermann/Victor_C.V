@@ -5,22 +5,23 @@
 <img alt="CCS3"  src= "https://github.com/user-attachments/assets/38e65335-3889-45c2-a3ea-7920a1802e90" width="105">
 <img alt="HTML5" src= "https://github.com/user-attachments/assets/6e037743-3a82-4c84-a9f8-ac523fc5bbb9" width="105">
 <img alt="JS"    src= "https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-<img alt="React" src= "https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="99">
+<img alt="React" src= "https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="99"></h1>
 <br>
-<h1 align="justify"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic..;Victor+Miletic+is+a+Information+Systems+Engineering..;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)..;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert..;Self+taught+Arduino..;Croatian+English+and+others+language+student..;Active+Learner+and+Researcher..;A+technology+blockchain+and+Cripto+enthusiast..;Love+to+learn+new+stuffs."></a>
+	
+<h1 align="justify"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic..;Victor+Miletic+is+a+Information+Systems+Engineering..;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)..;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert..;Self+taught+Arduino..;Croatian+English+and+others+language+student..;Active+Learner+and+Researcher..;A+technology+blockchain+and+Cripto+enthusiast..;Love+to+learn+new+stuffs."></a>
 </h1>	
-<h1 aling="justify">
-<li>🌱<b>I’m currently learning a FullStack Master of Software Development. https://www.conquerx.com
+<div aling=left>
+<li>🌱<b>I’m currently learning a FullStack Master of Software Development. https://www.conquerx.com/
 <li>🎯<b>I’m currently learning a Croatian lenguaje (ilades-Argentina).<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi"> https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
 <li>👯<b>I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
-<li>🤔<b>I’m looking for help with : Find Job on Software Development (Jr).<br>
+<li>🤔<b>I’m looking for help with : Find my first Job on Software Development.<br>
 <li>💬<b>Ask me about : Linux Ubuntu and Windows/Python/LinuxTerminal/Git & GitHub/Linux (WSL)/VsCode/Arduino/Virtual Machine.<br>
 <li>📫<b>How to reach me: viktoremiletic@gmail.com.<br>
-<li>🔭<b>Other Experiences: Microsoft Excel y Project Experience/SAP ERP. MM, PM, BO/Spanish native. Croatian and English languaje.<br>
-<li>😄<b>Pronouns: Viktore [Conquer Ranks Bronce III] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
+<li>🔭<b>Others:Microsoft Excel y Project Experience/SAP ERP. MM, PM, BO/Spanish native. Nivel B1 en Croatian and English languaje.
+<li>😄<b>Pronouns:Viktore [Conquer Ranks Bronce III] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1><br>
+</br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
   
