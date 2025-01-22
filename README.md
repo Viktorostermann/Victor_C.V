@@ -6,14 +6,14 @@
 <img alt="CCS3"  src= "https://github.com/user-attachments/assets/38e65335-3889-45c2-a3ea-7920a1802e90" width="105">
 <img alt="HTML5" src= "https://github.com/user-attachments/assets/6e037743-3a82-4c84-a9f8-ac523fc5bbb9" width="105">
 <img alt="JS"    src= "https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-<img alt="React" src= "https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="99"></h1>
+<img alt="React" src= "https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="99">
+</h1>
 <br>
 
 <h1 align="justify"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic..;Victor+Miletic+is+a+Information+Systems+Engineering..;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)..;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert..;Self+taught+Arduino..;Croatian+English+and+others+language+student..;Active+Learner+and+Researcher..;A+technology+blockchain+and+Cripto+enthusiast..;Love+to+learn+new+stuffs."></h1> <br>
 
-<div aling=left>
-<li>🌱<b>I’m currently learning a FullStack Master of Software Development. https://www.conquerx.com/
-<li>🎯<b>I’m currently learning a Croatian lenguaje (ilades-Argentina).<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi"> https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
+<li>🌱<b>I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com/
+<li>🎯<b>I’m currently learning a Croatian lenguaje (ilades-Argentina):<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi"> https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
 <li>👯<b>I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
 <li>🤔<b>I’m looking for help with : Find my first Job on Software Development.<br>
 <li>💬<b>Ask me about : Linux Ubuntu and Windows/Python/LinuxTerminal/Git & GitHub/Linux (WSL)/VsCode/Arduino/Virtual Machine.<br>
@@ -23,49 +23,47 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1>
 <br>
 
-
-<br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></b>
+<br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <b>Skills</b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-<div aling=left><b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1></br>
+<div aling=left><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1>
+
+<div align="left">
+<li>👨‍💻Programming Languages</div>
+<img height="42" width="42" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+<img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 <p>
+</br>
+
+
+<div align="left">
+<li>👉Frontend Development</div>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
+<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+</p>
+</br>
 	
-<br>
-<div aling=left>
-<li>👨‍💻<b>Programming Languages</b>
-<div aling=left><img height="30" width="42" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-<div aling=left><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-<div aling=left><img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
-<div aling=left><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-<div aling=left><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
-<div aling=left><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-<div aling=left><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-<p>
-<br>
-
-### 👉 Frontend Development
-<p> 
-	<img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
-	<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-	<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+<div align="left">
+<li>🧰Frameworks and Libraries</div>
+<img alt="React" src="https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat"> 
+<img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat">
+<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
+<img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
 </p>
 <br>
 
-### 🧰 Frameworks and Libraries
-<p>
-	<img alt="React" src="https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat"> 
-	<img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat">
-	<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
-	<img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
-	<img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
-</p>
-<br>
-
-### 🗄️ Databases / Web and Cloud Hosting
-<p>
-	<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white">
-	<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
-	<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
- 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
+<div align="left">
+<li>🗄️Databases / Web and Cloud Hosting</div>
+<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white">
+<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
+<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
 </p>
 <br>
 
