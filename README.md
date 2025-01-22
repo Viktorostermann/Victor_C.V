@@ -8,17 +8,17 @@
 <img alt="React" src= "https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="99">
 <br>
 <h1 align="down"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic...;Victor+Miletic+is+a+Information+Systems+Engineering...;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)...;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert...;Self+taught+Arduino....;Croatian+English+and+others+language+student....;Active+Learner+and+Researcher....;A+technology+blockchain+and+Cripto+enthusiast...;Love+to+learn+new+stuffs..."></a>
- </h1>
- 
-- :school: I’m currently learning a FullStack Master of Software Development. https://www.conquerx.com/escuelas#conquerblocks
-- :student: I’m currently learning a Croatian lenguaje (Ilades - Argentina). <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi">https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html>
-- 👯 I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino
-- 🤔 I’m looking for help with : Looking for job off  Software Development (Jr).
+</h1>	
+<h1 aling="justify"> 
+- :school: I’m currently learning a FullStack Master of Software Development. https://www.conquerx.com/escuelas#conquerblocks<br>
+- :student: I’m currently learning a Croatian lenguaje (Ilades - Argentina). <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi">https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
+- 👯 I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
+- 🤔 I’m looking for help with : Looking for job off  Software Development (Jr).<br>
 - 💬 Ask me about : Linux Ubuntu and Windows OS / Python / Linux Terminal / Git & GitHub / Linux (WSL) / VsCode / Arduino / Virtual Machine / Microsfot Excel / Microsoft Project / SAP ERP. MM, PM, BO / Spanish. Croatian and English languaje.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="35%" /> <p width="35%">
-- 📫 How to reach me: viktoremiletic@gmail.com
-- 🔭 Other Experiences: 
-- 😄 Pronouns: Viktore [Conquer Ranks Bronce III] </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="35%" /> <p width="35%"><br>
+- 📫 How to reach me: viktoremiletic@gmail.com<br>
+- 🔭 Other Experiences:<br> 
+- 😄 Pronouns: Viktore [Conquer Ranks Bronce III] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
