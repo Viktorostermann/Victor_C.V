@@ -1,4 +1,4 @@
-<h1 align="down"> Hi, I'm Victor Miletic<h1 align="left"> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen">
+<h1 align="down"> Hi, I'm Victor Miletic<h1 align="left"> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen>
 <img alt="Python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="99">
 <img alt="VsCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="99">
 <img alt="GIT"   src= "https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="99">
