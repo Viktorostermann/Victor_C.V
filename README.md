@@ -9,16 +9,15 @@
 <br>
 <h1 align="down"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic...;Victor+Miletic+is+a+Information+Systems+Engineering...;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)...;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert...;Self+taught+Arduino....;Croatian+English+and+others+language+student....;Active+Learner+and+Researcher....;A+technology+blockchain+and+Cripto+enthusiast...;Love+to+learn+new+stuffs..."></a>
 </h1>	
-<h1 aling="justify"> 
-- :school: I’m currently learning a FullStack Master of Software Development.https://www.conquerx.com/escuelas#conquerblocks<br>
-- :student: I’m currently learning a Croatian lenguaje (Ilades - Argentina).<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi">https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
+<h1 aling="justify">
+<li>🌱<b>I’m currently learning a FullStack Master of Software Development.https://www.conquerx.com/escuelas#conquerblocks.
+<li>🎯<b>I’m currently learning a Croatian lenguaje (Ilades - Argentina).<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi">https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
 - 👯 I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
 - 🤔 I’m looking for help with : Looking for job off  Software Development (Jr).<br>
 - 💬 Ask me about : Linux Ubuntu and Windows OS / Python / Linux Terminal / Git & GitHub / Linux (WSL) / VsCode / Arduino / Virtual Machine / Microsfot Excel / Microsoft Project / SAP ERP. MM, PM, BO / Spanish. Croatian and English languaje.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="35%" /> <p width="35%"><br>
-- 📫 How to reach me: viktoremiletic@gmail.com<br>
-- 🔭 Other Experiences:<br> 
-- 😄 Pronouns: Viktore [Conquer Ranks Bronce III] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br>
+- 📫 How to reach me: viktoremiletic@gmail.com.
+- 🔭 Other Experiences:<br>
+- 😄 Pronouns: Viktore [Conquer Ranks Bronce III] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -90,11 +89,14 @@
 <br>
 
 ## 🤝 Connect with me
-<p align="center">
+<p align="left">
 	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white">
 	<img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
-	<img alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">
+	<img alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"><br>
+	<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" /> <p width="55%">
 </p>
+<br>
+<br>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
-  ![image](https://github.com/user-attachments/assets/b2e8550b-5f63-4306-abd1-7bda40e540b2)                                                
+  ![image](https://github.com/user-attachments/assets/b2e8550b-5f63-4306-abd1-7bda40e540b2)                                               
