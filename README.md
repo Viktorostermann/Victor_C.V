@@ -10,7 +10,7 @@
 </h1>
 <br>
 
-<h1 align="justify"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic..;Victor+Miletic+is+a+Information+Systems+Engineering..;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)..;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert..;Self+taught+Arduino..;Croatian+English+and+others+language+student..;Active+Learner+and+Researcher..;A+technology+blockchain+and+Cripto+enthusiast..;Love+to+learn+new+stuffs."></h1> <br>
+<h1 align="justify"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic..;Victor+Miletic+is+a+Information+Systems+Engineering..;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)..;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert..;Self+taught+Arduino..;Croatian+English+and+others+language+student..;Active+Learner+and+Researcher..;A+technology+blockchain+and+Cripto+enthusiast..;Love+to+learn+new+stuffs."></h1><br>
 
 <li>🌱<b>I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com/
 <li>🎯<b>I’m currently learning a Croatian lenguaje (ilades-Argentina):<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi"> https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
@@ -26,8 +26,7 @@
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-<b>Skills</b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-</div><h1>
+<b>Skills</b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><h1>
 
 <li>🌱<b>I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com/
 <li>🎯<b>I’m currently learning a Croatian lenguaje (ilades-Argentina):<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi"> https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
