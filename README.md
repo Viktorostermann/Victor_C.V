@@ -61,46 +61,40 @@
 <h1>
 </h1>
 
-<br>
-<h1 align="left">
-<p>
-<li>🗄️Databases / Web and Cloud Hosting</div>
-<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white">
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
-<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
-</p>
+<h1 align="left"></h1>
+<div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🗄️Databases / Web and Cloud Hosting</div><br>
+<li><img height="25" width="75" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white">
+<li><img height="25" width="70" alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
+<li><img height="25" width="70" alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+<li><img height="25" width="70" alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
+<p></p>
+<h1>
+</h1>
+	
+<h1 align="left"></h1>
+<div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🗄️Operating Systems</div><br>
+<li><img height="25" width="75" alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white">
+<li><img height="25" width="70" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
+<li><img height="25" width="70" alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white">
+<p></p>
+<h1>
 </h1>
 
-<br>
-<h1 align="left">
-<p>
-<li> Operating Systems</div>
-<img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white">
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
-<img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white">
-</p>
+<h1 align="left"></h1>
+<div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">💻 Software and Tools</div><br>
+<li><img height="25" width="75" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<li><img height="25" width="70" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<li><img height="25" width="70" alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+<p></p>
+<h1>
 </h1>
 
-<br>
-<h1 align="left">
-<p>
-<li> 💻 Software and Tools
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-</p>
+<h1 align="left"></h1>
+<div><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats - Profile contribution</b>
+<img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
+<p></p>
+<h1>
 </h1>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats - Profile contribution</b>
-
-<p align="left">
-  <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
-</p></div>
-<br>
-
-<br>
-<br>
 
 ## 🤝 Connect with me
 <p align="left">
