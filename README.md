@@ -25,34 +25,23 @@
 <h1>
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <b>Skills</b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><h1>
 
-<li>🌱<b>I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com/
-<li>🎯<b>I’m currently learning a Croatian lenguaje (ilades-Argentina):<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi"> https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
-<li>👯<b>I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
-<li>🤔<b>I’m looking for help with : Find my first Job on Software Development.<br>
-<li>💬<b>Ask me about : Linux Ubuntu and Windows/Python/LinuxTerminal/Git & GitHub/Linux (WSL)/VsCode/Arduino/Virtual Machine.<br>
-<li>📫<b>How to reach me: viktoremiletic@gmail.com.<br>
-<li>🔭<b>Others:Microsoft Excel y Project Experience/SAP ERP. MM, PM, BO/Spanish native. Nivel B1 en Croatian and English languaje.
-<li>😄<b>Pronouns:Viktore [Conquer Ranks Bronce III] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1>
-<h1 align="down">
-<br>
-	
-</br>
 <h1 align="left">
-<li>👨‍💻Programming Languages
-<img height="42" width="42" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-<p>
+<div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Programming Languages</div><br>
+<li><img height="25" width="68" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+<li><img height="25" width="68" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+<li><img height="25" width="55" alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
+<li><img height="25" width="55" alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
+<li><img height="25" width="55" alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+<li><img height="25" width="55" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+<li><img height="45" width="55" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<p></p>
 </h1>
-	
+  <h1>	
+</h1>
+<br>
+
 <br>
 <h1 align="left">
 <p>
