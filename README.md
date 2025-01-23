@@ -36,7 +36,7 @@
 <li><img height="25" width="55" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 <li><img height="45" width="55" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <p></p>	
-</h1
+</h1>
 <br>
 
 <br>
