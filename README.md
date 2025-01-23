@@ -25,10 +25,12 @@
 
 <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <b>Skills</b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-<div aling=left><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1>
+<div aling=left><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<p>
 
-<div align="left">
-<li>👨‍💻Programming Languages</div>
+</br>
+<h1 align="left">
+<li>👨‍💻Programming Languages
 <img height="42" width="42" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
@@ -37,18 +39,21 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 <p>
-</br>
-
-
-<div align="left">
+</h1>
+	
+<br>
+<h1 align="left">
+<p>
 <li>👉Frontend Development</div>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
 <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
 </p>
-</br>
-	
-<div align="left">
+</h1>
+
+<br>
+<h1 align="left">
+<p>
 <li>🧰Frameworks and Libraries</div>
 <img alt="React" src="https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat"> 
 <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat">
@@ -56,32 +61,38 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
 <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
 </p>
-<br>
+</h1>
 
-<div align="left">
+<br>
+<h1 align="left">
+<p>
 <li>🗄️Databases / Web and Cloud Hosting</div>
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white">
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
 <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
 </p>
-<br>
+</h1>
 
-## Operating Systems
-<p>
-	<img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white">
-	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
-	<img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white">
-<p>  
 <br>
-  
-### 💻 Software and Tools
+<h1 align="left">
 <p>
-	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-	<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-	<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+<li> Operating Systems</div>
+<img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white">
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
+<img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white">
 </p>
-</br>
+</h1>
+
+<br>
+<h1 align="left">
+<p>
+<li> 💻 Software and Tools
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+</p>
+</h1>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats - Profile contribution</b>
 
