@@ -72,7 +72,7 @@
 </h1>
 	
 <h1 align="left"></h1>
-<div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🗄️Operating Systems</div><br>
+<div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><img height="44" width="75" alt="OS" src="https://github.com/user-attachments/assets/9470375c-d3e1-45d3-9964-8a1645ba6711">Operating Systems</div><br>
 <li><img height="28" width="90" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
 <li><img height="28" width="90" alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white">
 <li><img height="28" width="90" alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white">
