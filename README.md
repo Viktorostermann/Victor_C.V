@@ -105,9 +105,8 @@
 <h1>
 </h1>
 
-<h1 align="left">
+<h1 align="center"><img src= "https://github.com/user-attachments/assets/b2e8550b-5f63-4306-abd1-7bda40e540b2">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="35%" /><p width="35%">
-![image](https://github.com/user-attachments/assets/b2e8550b-5f63-4306-abd1-7bda40e540b2)                                               
-
+<h1 align="center"><img src= "https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000">
+<br>
