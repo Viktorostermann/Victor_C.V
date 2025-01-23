@@ -12,7 +12,7 @@
 
 <h1 align="justify"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic..;Victor+Miletic+is+a+Information+Systems+Engineering..;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)..;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert..;Self+taught+Arduino..;Croatian+English+and+others+language+student..;Active+Learner+and+Researcher..;A+technology+blockchain+and+Cripto+enthusiast..;Love+to+learn+new+stuffs."></h1><br>
 
-<li>🌱<b>I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com/
+<li>🌱<b>I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com
 <li>🎯<b>I’m currently learning a Croatian lenguaje (ilades-Argentina):<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi"> https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
 <li>👯<b>I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
 <li>🤔<b>I’m looking for help with : Find my first Job on Software Development.<br>
@@ -50,16 +50,15 @@
 <h1>
 </h1>
 
-<br>
-<h1 align="left">
-<p>
-<li>🧰Frameworks and Libraries</div>
-<img alt="React" src="https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat"> 
-<img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat">
-<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
-<img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
-</p>
+<h1 align="left"></h1>
+<div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🧰Frameworks and Libraries</div><br>
+<li><img height="25" width="75" alt="React" src="https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat">
+<li><img height="25" width="70" alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat">
+<li><img height="25" width="70" alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
+<li><img height="25" width="70" alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
+<li><img height="25" width="70" alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
+<p></p>
+<h1>
 </h1>
 
 <br>
