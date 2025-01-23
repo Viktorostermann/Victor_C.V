@@ -90,21 +90,24 @@
 </h1>
 
 <h1 align="left"></h1>
-<div><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats - Profile contribution</b>
+<div><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats - Profile contribution</br>
 <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
 <p></p>
 <h1>
 </h1>
 
-## 🤝 Connect with me
-<p align="left">
+<h1 align="left"></h1>
+<div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 🤝 Connect with me</div><br>
 <li><img height="25" width="75" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white">
 <li><img height="25" width="75" alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
-<li><img height="25" width="75" alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"><br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" /> <p width="35%">
-</p>
-<br>
-<br>
+<li><img height="25" width="75" alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"><br>	
+<p></p>
+<h1>
+</h1>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)
-  ![image](https://github.com/user-attachments/assets/b2e8550b-5f63-4306-abd1-7bda40e540b2)                                               
+<h1 align="left">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="35%" /><p width="35%">
+![image](https://github.com/user-attachments/assets/b2e8550b-5f63-4306-abd1-7bda40e540b2)                                               
+
