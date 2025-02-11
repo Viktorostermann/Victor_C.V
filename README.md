@@ -32,9 +32,9 @@
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Programming Languages</div><br>
 <li><img height="25" width="100" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
 <li><img height="25" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-<li><a href="https://github.com/user-attachments/files/18759108/Funcion_registro_Nombre.txt" class="btn"> <i class="fas fa-download"> 1- 🎯Script_Registro_Nombre</a></br>
-<li><a href="https://github.com/user-attachments/files/18757492/Mensaje_bienvenida.txt" class="btn"> <i class="fas fa-download"> 2- 🎯Script_Bienvenida</a></br>
-<li><a href="https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt" class="btn"> <i class="fas fa-download"> 3- 🎯Script_Neurona_IA</a></br>
+<li><a href="https://github.com/user-attachments/files/18759108/Funcion_registro_Nombre.txt" class="btn"> <i class="fas fa-download"> 1- 🎯Script_Registro_Nombre
+<li><a href="https://github.com/user-attachments/files/18757492/Mensaje_bienvenida.txt" class="btn"> <i class="fas fa-download"> 2- 🎯Script_Bienvenida
+<li><a href="https://github.com/user-attachments/files/18757514/Neurona.-.IA.txt" class="btn"> <i class="fas fa-download"> 3- 🎯Script_Neurona_IA
 <li><img height="25" width="78" alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
 <li><img height="25" width="55" alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
 <li><img height="25" width="52" alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
