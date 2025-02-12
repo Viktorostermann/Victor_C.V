@@ -30,13 +30,13 @@
 
 <h1 align="left">
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Programing Languages (Back-End) </div><br>
-<small><p> <li><img height="25" width="100"alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></li></p>
-<small><p> <li><img height="25" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></li></p>
-<small><p> <li><img height="25" width="78" alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"></li></p>
-<small><p> <li><img height="25" width="55" alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"></li></p>
-<small><p> <li><img height="25" width="52" alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></li></p>
-<small><p> <li><img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></li></p>
-<small><p> <li><img height="25" width="52" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></li></p>
+<small><p> <li><img height="25" width="100"alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+<small><p> <li><img height="25" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+<small><p> <li><img height="25" width="78" alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
+<small><p> <li><img height="25" width="55" alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
+<small><p> <li><img height="25" width="52" alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+<small><p> <li><img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<small><p> <li><img height="25" width="52" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 </p>
 </h1>
 </br>
@@ -46,7 +46,7 @@
 <small><p> <li><img height="28" width="95" alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></li></p>
 <small><p> <li><img height="28" width="73" alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></li></p>
 <small><p> <li><img height="28" width="73" alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></li></p>
-<p></p>
+</p>
 <br>
 
 <h1 align="left">
@@ -56,7 +56,7 @@
 <small><p> <li><img height="28" width="90" alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></li></p>
 <small><p> <li><img height="28" width="90" alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></li></p>
 <small><p> <li><img height="28" width="90" alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></li></p>
-<p></p>
+</p>
 <br>
 
 <h1 align="left">
@@ -65,7 +65,7 @@
 <small><p> <li><img height="28" width="75" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"></li></p>
 <small><p> <li><img height="30" width="75" alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></li></p>
 <small><p> <li><img height="30" width="75" alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></li></p>
-<p></p>
+</p>
 <br>
 
 <h1 align="left">
@@ -73,7 +73,7 @@
 <small><p> <li><img height="28" width="90" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></li></p>
 <small><p> <li><img height="28" width="90" alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></li></p>
 <small><p> <li><img height="28" width="90" alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></li></p>
-<p></p>
+</p>
 <br>
 
 <h1 align="left">
@@ -82,13 +82,13 @@
 <small><p> <li><img height="30" width="100" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></li></p>
 <small><p> <li><img height="30" width="95" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></li></p>
 <small><p> <li><img height="30" width="75" alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></li></p>
-<p></p>
+</p>
 <br>
 
 <h1 align="left">
 <div><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 💻 Estadisticas </div><br>
 <div><img Github Stats <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"> </li></p>
-<p></p>
+</p>
 <br>
 	
 <h1 align="left">
@@ -97,7 +97,7 @@
 <small><p> <li><img heig![Uploading xls.png…]()
 ht="25" width="65" alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></li></p>
 <small><p> <li><img height="25" width="65" alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></li></p>	
-<p></p>
+</p>
 <br>
 
 <h1 align="center">
