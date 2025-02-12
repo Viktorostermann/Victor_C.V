@@ -38,12 +38,13 @@
 <li><img height="25" width="78" alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
 <li><img height="25" width="55" alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
 <li><img height="25" width="52" alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-<li><img height="25" width="52" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 <li><img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <li><a href="https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt" target="_blank"> 1-🎯Script_Semaforo_Arduino
+<li><img height="25" width="52" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 <p></p>
 <h1>
 </h1>
+<br>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Mark up Languages and Desing</div><br>
@@ -53,6 +54,7 @@
 <p></p>
 <h1>
 </h1>
+<br>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🧰Frameworks and Libraries</div><br>
@@ -64,6 +66,7 @@
 <p></p>
 <h1>
 </h1>
+<br>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🗄️Databases / Web and Hosting</div><br>
@@ -74,6 +77,7 @@
 <p></p>
 <h1>
 </h1>
+<br>
 	
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><img height="44" width="75" alt="OS" src="https://github.com/user-attachments/assets/9470375c-d3e1-45d3-9964-8a1645ba6711">Operating Systems</div><br>
@@ -83,6 +87,7 @@
 <p></p>
 <h1>
 </h1>
+<br>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">💻 Software and Tools</div><br>
@@ -92,12 +97,14 @@
 <p></p>
 <h1>
 </h1>
+<br>
 
 <h1 align="left"></h1>
 <div><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats<img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
 <p></p>
 <h1>
 </h1>
+<br>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 🤝 Connect with me</div><br>
@@ -107,6 +114,7 @@
 <p></p>
 <h1>
 </h1>
+<br>
 
 <h1 align="center"><img src= "https://github.com/user-attachments/assets/b2e8550b-5f63-4306-abd1-7bda40e540b2">
 
