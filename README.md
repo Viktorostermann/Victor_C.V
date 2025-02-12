@@ -40,6 +40,7 @@
 <li><img height="25" width="52" alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 <li><img height="25" width="52" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 <li><img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<li><a href="https://github.com/user-attachments/files/18760505/Semaforo_Con_Ultrasonido.txt" target="_blank"> 1-🎯Script_Semaforo_Arduino
 <p></p>
 <h1>
 </h1>
