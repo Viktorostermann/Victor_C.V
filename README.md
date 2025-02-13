@@ -30,22 +30,22 @@
 
 <h1 align="left">
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Programming Languages</div><br>
-<li><img height="25" width="100" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-<li><img height="25" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-<li><img height="25" width="78" alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
-<li><img height="25" width="55" alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
-<li><img height="25" width="52" alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-<li><img height="25" width="52" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-<li><img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<li><img height="25" width="100" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"><br/>
+<li><img height="25" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"><br/>
+<li><img height="25" width="78" alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"><br/>
+<li><img height="25" width="55" alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"><br/>
+<li><img height="25" width="52" alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"><br/>
+<li><img height="25" width="52" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"><br/>
+<li><img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br/>
 <p></p>
 <h1>
 </h1>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Mark up Languages</div><br>
-<li><img height="28" width="95" alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
-<li><img height="28" width="73" alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-<li><img height="28" width="73" alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+<li><img height="28" width="95" alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"><br/>
+<li><img height="28" width="73" alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"><br/>
+<li><img height="28" width="73" alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"><br/>
 <p></p>
 <h1>
 </h1>
@@ -53,30 +53,32 @@
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🧰Frameworks and Libraries</div><br>
 <li><img height="28" width="90" alt="VueJS" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"><br/>
-<li><img height="28" width="90" alt="React" src="https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat">
-<li><img height="28" width="90" alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat">
-<li><img height="28" width="90" alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
-<li><img height="28" width="90" alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
-<li><img height="28" width="90" alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
+<li><img height="28" width="90" alt="React" src="https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat"><br/>
+<li><img height="28" width="90" alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat"><br/>
+<li><img height="28" width="90" alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"><br/>
+<li><img height="28" width="90" alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"><br/>
+<li><img height="28" width="90" alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"><br/>
 <p></p>
 <h1>
 </h1>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🗄️Databases / Web and Hosting</div><br>
-<li><img height="30" width="125" alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
-<li><img height="28" width="75" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white">
-<li><img height="30" width="75" alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-<li><img height="30" width="75" alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
+<li><img height="30" width="125" alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"><br/>
+<li><img height="28" width="75" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"><br/>
+<li><img height="30" width="75" alt="SQL"   src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"><br/>
+<li><img height="30" width="75" alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"><br/>
+<li><img height="30" width="75" alt="Git"   src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"><br/>
 <p></p>
 <h1>
 </h1>
 	
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><img height="44" width="75" alt="OS" src="https://github.com/user-attachments/assets/9470375c-d3e1-45d3-9964-8a1645ba6711">Operating Systems</div><br>
-<li><img height="28" width="90" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
-<li><img height="28" width="90" alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white">
-<li><img height="28" width="90" alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white">
+<li><img height="28" width="90" alt="Ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"><br/>
+<li><img height="28" width="90" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"><br/>
+<li><img height="28" width="90" alt="Kali"  src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"><br/>
+<li><img height="28" width="90" alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"><br/>
 <p></p>
 <h1>
 </h1>
@@ -84,8 +86,9 @@
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">💻 Software and Tools</div><br>
 <li><img height="30" width="100" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<li><img height="30" width="95" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-<li><img height="30" width="75" alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+<li><img height="30" width="95" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"><br/>
+<li><img height="30" width="95" alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda"><br/>
+<li><img height="30" width="75" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white"><br/>
 <p></p>
 <h1>
 </h1>
