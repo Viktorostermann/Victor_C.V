@@ -52,6 +52,7 @@
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🧰Frameworks and Libraries</div><br>
+<li><img height="28" width="90" alt="VueJS" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"><br/>
 <li><img height="28" width="90" alt="React" src="https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat">
 <li><img height="28" width="90" alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat">
 <li><img height="28" width="90" alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
