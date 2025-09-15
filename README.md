@@ -1,4 +1,14 @@
 <h1 align="down"> Hi, I'm Victor Miletic.! <h1 align="down">
+<h1> Estimado/a [Nombre del Reclutador o Empresa]:
+
+Me presento con entusiasmo como un profesional apasionado por la Ciberseguridad, actualmente en proceso de formación como Desarrollador Full Stack. Me encuentro en nivel Junior en ambas áreas, pero con un firme compromiso de aprendizaje continuo y la motivación de crecer aportando soluciones seguras, innovadoras y eficientes.
+
+Estoy convencido de que mi disciplina, curiosidad tecnológica y capacidad de adaptación pueden generar valor en su equipo y contribuir al logro de sus objetivos.
+
+Quedo a su disposición para conversar sobre cómo puedo aportar a su organización.
+
+Atentamente,
+[Victor] </h1>
 
 <img alt="Python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="99">
 <img alt="VsCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="99">
