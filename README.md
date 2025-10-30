@@ -19,9 +19,9 @@
 <li>💬<b>Ask me about : Linux Ubuntu and Windows/Python/LinuxTerminal/Git & GitHub/Linux (WSL)/VsCode/Arduino/Virtual Machine.<br>
 <li>📫<b>How to reach me: viktoremiletic@gmail.com.<br>
 <li>🔭<b>Others: Spanish native. Nivel B1 en Croatian and English languaje:
-<li>☕️<b>Mira en que trabajo:<br></br>
-https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/<br></br>
-https://viktorostermann.github.io/Scripts/<br></br>
+<li>☕️<b>Mira en que trabajo:<br>
+https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/<br>
+https://viktorostermann.github.io/Scripts/<br>
 <li>🐙<b>Experiencias acumuladas en el tiempo: https://www.linkedin.com/in/v%C3%ADctor-m%C3%ADletic-89656049/ 
 <li>😄<b>Pronouns:Viktore [Conquer Ranks Bronce III] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <br>
