@@ -13,13 +13,15 @@
 <h1 align="justify"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic..;Victor+Miletic+is+a+Information+Systems+Engineering..;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)..;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert..;Self+taught+Arduino..;Croatian+English+and+others+language+student..;Active+Learner+and+Researcher..;A+technology+blockchain+and+Cripto+enthusiast..;Love+to+learn+new+stuffs."></h1><br>
 
 <li>🌱<b>I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com
-<li>🎯<b>I’m currently learning a Croatian lenguaje (ilades-Argentina):<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi"> https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
+<li>🎯<b>I’m currently learning a Croatian lenguaje (ilades-Argentina):<br></b> <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><a href="https://www.facebook.com/diplomados.ilades.9mibextid=JRoKGi"> https://www.facebook.com/diplomados.ilades.9?mibextid=JRoKGi</a></body></html><br>
 <li>👯<b>I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
 <li>🤔<b>I’m looking for help with : Find my first Job on Software Development.<br>
 <li>💬<b>Ask me about : Linux Ubuntu and Windows/Python/LinuxTerminal/Git & GitHub/Linux (WSL)/VsCode/Arduino/Virtual Machine.<br>
 <li>📫<b>How to reach me: viktoremiletic@gmail.com.<br>
 <li>🔭<b>Others: Spanish native. Nivel B1 en Croatian and English languaje:
-<li>☕️<b>Mira en que trabajo: https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/ https://viktorostermann.github.io/Scripts/ 
+<li>☕️<b>Mira en que trabajo:<br></b>
+https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/<br></b>
+https://viktorostermann.github.io/Scripts/ 
 <li>🐙<b>Experiencias acumuladas en el tiempo: https://www.linkedin.com/in/v%C3%ADctor-m%C3%ADletic-89656049/ 
 <li>😄<b>Pronouns:Viktore [Conquer Ranks Bronce III] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <br>
