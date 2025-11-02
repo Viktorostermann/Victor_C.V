@@ -98,8 +98,14 @@ https://viktorostermann.github.io/Scripts/<br>
 </h1>
 
 <h1 align="left"></h1>
-<div> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 💻 Github Stats </div><br>
-<div> <img src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
+<div> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 💻 Github Stats </div>
+<br>
+<div align="center">
+	<div> <img src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green">
+</div>
+<br>
+
 <p></p>
 <h1>
 </h1>
