@@ -58,14 +58,12 @@
 <li><img height="28" width="90" alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat"><br/>
 <li><img height="28" width="90" alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"><br/>
 <li><img height="28" width="90" alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"><br/>
-<li><img height="28" width="90" alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"><br/>
 <p></p>
 <h1>
 </h1>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">🗄️Databases / Web and Hosting</div><br>
-<li><img height="30" width="125" alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"><br/>
 <li><img height="28" width="75" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"><br/>
 <li><img height="30" width="75" alt="SQL"   src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"><br/>
 <li><img height="30" width="75" alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"><br/>
@@ -79,7 +77,6 @@
 <li><img height="28" width="90" alt="Ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"><br/>
 <li><img height="28" width="90" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"><br/>
 <li><img height="28" width="90" alt="Kali"  src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"><br/>
-<li><img height="28" width="90" alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"><br/>
 <p></p>
 <h1>
 </h1>
