@@ -28,6 +28,12 @@ share/python-wheels/
 *.ConquerBlocks/
 MANIFEST
 
+# Ignorar binarios grandes
+*.exe
+*.zip
+dist/
+snippets/
+
 # Local Host Paths
 pyvenv.cfg
 extensions.txt
