@@ -38,6 +38,9 @@ build.log
 .zencoder/
 .zenflow/
 
+# Ignorar configuraciones de VS Code
+snippets/
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
