@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Texto_a_Voz_TkInter_v1 — Documentación Windows</title>
+<style>
+  body { font-family: Segoe UI, system-ui, sans-serif; line-height: 1.55; margin: 2rem; max-width: 900px; }
+  code, pre { background: #f3f3f3; padding: .2em .4em; border-radius: 4px; }
+  pre { padding: .8rem; overflow: auto; }
+</style>
+</head>
+<body>
+
+<h1>Texto_a_Voz_TkInter_v1 — Documentación (Windows)</h1>
+<p><strong>Branding:</strong> Viktore@ConquerBlocks — Distribución firmada digitalmente.</p>
+
+<h2>¿Qué hace este software?</h2>
+<ul>
+  <li>Convierte texto a audio.</li>
+  <li>Permite extraer texto desde URLs.</li>
+  <li>Guarda audios en <code>Reportes/Audios_URLS/</code></li>
+  <li>Guarda logs en <code>Reportes/Logs_GUI/</code></li>
+</ul>
+
+<h2>Requisitos del sistema</h2>
+<ul>
+  <li>Windows 10 o Windows 11</li>
+  <li>Arquitectura 64 bits</li>
+  <li>Permisos de instalación (Administrador)</li>
+</ul>
+
+<h2>Instalación</h2>
+
+<h3>Opción 1 — Instalador .exe (Recomendado)</h3>
+<ol>
+  <li>Ejecutar <code>Texto_a_Voz_TkInter_v1_Setup.exe</code></li>
+  <li>Seguir el asistente de instalación.</li>
+  <li>El programa se instalará en:
+    <pre><code>C:\Program Files\Texto_a_Voz_TkInter_v1\</code></pre>
+  </li>
+</ol>
+
+<h3>Opción 2 — Desde código fuente</h3>
+<ol>
+  <li>Instalar Python 3.10 (64 bits)</li>
+  <li>Crear entorno virtual:
+    <pre><code>python -m venv .venv
+.venv\Scripts\activate</code></pre>
+  </li>
+  <li>Instalar dependencias:
+    <pre><code>pip install -r requirements.txt</code></pre>
+  </li>
+  <li>Ejecutar:
+    <pre><code>python Buscador_Articulo_Texto_Voz.py</code></pre>
+  </li>
+</ol>
+
+<h2>Ubicación de datos y reportes</h2>
+<p>Los reportes se almacenan en:</p>
+<pre><code>%APPDATA%\Texto_a_Voz_TkInter_v1\</code></pre>
+
+<h2>Firma digital</h2>
+<p>El ejecutable puede verificarse desde Propiedades → Firmas digitales.</p>
+
+<h2>Desinstalación</h2>
+<ul>
+  <li>Panel de control → Programas → Desinstalar programa.</li>
+  <li>O desde Configuración → Aplicaciones.</li>
+</ul>
+
+<h2>Solución de problemas</h2>
+<ul>
+  <li>Si Windows bloquea el ejecutable: clic derecho → Propiedades → Desbloquear.</li>
+  <li>Ejecutar como Administrador si hay problemas de permisos.</li>
+</ul>
+
+</body>
+</html>

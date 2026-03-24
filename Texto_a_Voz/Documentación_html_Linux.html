@@ -1,0 +1,164 @@
+
+---
+
+## Documentación.html
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Texto_a_Voz_TkInter_v1 — Documentación</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, sans-serif; line-height: 1.55; margin: 2rem; max-width: 900px; }
+  h1, h2, h3 { margin-top: 1.2em; }
+  code, pre { background: rgba(128,128,128,.15); padding: .2em .4em; border-radius: 4px; }
+  pre { padding: .8rem; overflow: auto; }
+  a { color: #0a66c2; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .kbd { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; background: rgba(128,128,128,.18); padding: .1em .35em; border-radius: 4px; border: 1px solid rgba(128,128,128,.35); }
+  .toc ol { margin-left: 1.2rem; }
+  .note { padding: .8rem; border-left: 4px solid #0a66c2; background: rgba(10,102,194,.08); border-radius: 4px; }
+  hr { border: none; height: 1px; background: rgba(128,128,128,.35); margin: 2rem 0; }
+</style>
+</head>
+<body>
+
+<h1 id="top">Texto_a_Voz_TkInter_v1 — Documentación</h1>
+<p><strong>Branding:</strong> Viktore@ConquerBlocks — Paquete firmado y verificable.</p>
+
+<h2>Índice</h2>
+<nav class="toc">
+  <ol>
+    <li><a href="#que-hace">¿Qué hace este software? Objetivo</a></li>
+    <li><a href="#requisitos">Requisitos previos</a></li>
+    <li><a href="#verificacion">Verificar autenticidad de la distribución</a></li>
+    <li><a href="#instalacion">Instalación</a>
+      <ol>
+        <li><a href="#instalar-deb">Instalar desde paquete .deb</a></li>
+        <li><a href="#instalar-remoto">Instalación remota con script</a></li>
+      </ol>
+    </li>
+    <li><a href="#desinstalacion">Desinstalación</a></li>
+    <li><a href="#scripts">Uso de scripts .sh</a>
+      <ol>
+        <li><a href="#script-instalar">instalar_remoto.sh</a></li>
+        <li><a href="#script-desinstalar">desinstalar.sh</a></li>
+      </ol>
+    </li>
+    <li><a href="#ejecucion">Ejecución y lanzador</a></li>
+    <li><a href="#troubleshooting">Solución de problemas</a></li>
+  </ol>
+</nav>
+
+<hr />
+
+<h2 id="que-hace">¿Qué hace este software? Objetivo</h2>
+<p><strong>Objetivo:</strong> Ofrecer una GUI en Tkinter para convertir texto a audio (incluyendo texto extraído de la web), guardando reportes y manteniendo trazabilidad del proceso.</p>
+<ul>
+  <li><strong>Entrada:</strong> texto manual y fuentes web compatibles.</li>
+  <li><strong>Salida:</strong> audios en <span class="kbd">Reportes/Audios_URLS/</span>, logs en <span class="kbd">Reportes/Logs_GUI/</span>.</li>
+  <li><strong>Experiencia visual:</strong> ícono y branding integrados.</li>
+  <li><strong>Trazabilidad:</strong> estructura de reportes organizada para auditoría.</li>
+</ul>
+
+<h2 id="requisitos">Requisitos previos</h2>
+<ul>
+  <li><strong>Sistema:</strong> Debian/Ubuntu o derivadas.</li>
+  <li><strong>Dependencias de audio:</strong> libasound2, libglib2.0-0, libgomp1 (según entorno).</li>
+  <li><strong>GPG:</strong> requerido para verificar la firma digital.</li>
+</ul>
+<p class="note"><strong>Nota:</strong> Si faltan librerías, el instalador .deb intentará resolverlas a través de apt.</p>
+
+<h2 id="verificacion">Verificar autenticidad de la distribución</h2>
+<ol>
+  <li><strong>Importar clave pública:</strong>
+    <pre><code>gpg --import viktore_public.asc</code></pre>
+  </li>
+  <li><strong>Verificar firma del .deb:</strong>
+    <pre><code>gpg --verify Texto_a_Voz_TkInter_v1_DEB.deb.sig Texto_a_Voz_TkInter_v1_DEB.deb</code></pre>
+  </li>
+  <li><strong>Resultado esperado:</strong> “Firma correcta de Viktore &lt;viktore@conquerblocks.local&gt;”.</li>
+</ol>
+
+<h2 id="instalacion">Instalación</h2>
+
+<h3 id="instalar-deb">Instalar desde paquete .deb</h3>
+<ol>
+  <li><strong>Instalar paquete:</strong>
+    <pre><code>sudo dpkg -i Texto_a_Voz_TkInter_v1_DEB.deb || sudo apt -f install -y</code></pre>
+  </li>
+  <li><strong>Verificaciones útiles:</strong>
+    <ul>
+      <li><strong>Binario:</strong> <span class="kbd">/usr/local/bin/Texto_a_Voz_TkInter_v1</span></li>
+      <li><strong>App:</strong> <span class="kbd">/opt/Texto_a_Voz_TkInter_v1/</span></li>
+      <li><strong>Ícono:</strong> <span class="kbd">/usr/share/icons/nouki.png</span></li>
+      <li><strong>Lanzador:</strong> <span class="kbd">/usr/share/applications/Texto_a_Voz_TkInter_v1.desktop</span></li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="instalar-remoto">Instalación remota con script</h3>
+<ol>
+  <li><strong>Permisos de ejecución:</strong>
+    <pre><code>chmod +x instalar_remoto.sh</code></pre>
+  </li>
+  <li><strong>Ejecutar:</strong>
+    <pre><code>./instalar_remoto.sh</code></pre>
+    <p><strong>Acciones:</strong> verifica firma con GPG, instala el .deb, resuelve dependencias y registra lanzador/ícono.</p>
+  </li>
+</ol>
+
+<h2 id="desinstalacion">Desinstalación</h2>
+<ul>
+  <li><strong>Script dedicado:</strong>
+    <pre><code>chmod +x desinstalar.sh
+./desinstalar.sh</code></pre>
+  </li>
+  <li><strong>Alternativa con dpkg/apt:</strong>
+    <pre><code>sudo dpkg -r texto-a-voz-tkinter-v1 || sudo apt remove -y texto-a-voz-tkinter-v1</code></pre>
+    <p><strong>Nota:</strong> el nombre exacto del paquete depende del archivo DEBIAN/control de tu .deb.</p>
+  </li>
+</ul>
+
+<h2 id="scripts">Uso de scripts .sh</h2>
+
+<h3 id="script-instalar">instalar_remoto.sh</h3>
+<ul>
+  <li><strong>Propósito:</strong> automatizar verificación e instalación.</li>
+  <li><strong>Uso:</strong>
+    <pre><code>./instalar_remoto.sh</code></pre>
+  </li>
+  <li><strong>Acciones típicas:</strong> gpg --verify, dpkg -i, apt -f install, registro de lanzador e ícono.</li>
+</ul>
+
+<h3 id="script-desinstalar">desinstalar.sh</h3>
+<ul>
+  <li><strong>Propósito:</strong> desinstalar el paquete y limpiar recursos opcionales.</li>
+  <li><strong>Uso:</strong>
+    <pre><code>./desinstalar.sh</code></pre>
+  </li>
+</ul>
+
+<h2 id="ejecucion">Ejecución y lanzador</h2>
+<ul>
+  <li><strong>Terminal:</strong>
+    <pre><code>Texto_a_Voz_TkInter_v1</code></pre>
+  </li>
+  <li><strong>Interfaz gráfica:</strong> abre el menú de aplicaciones y busca “Texto a Voz (Tkinter)”.</li>
+</ul>
+
+<h2 id="troubleshooting">Solución de problemas</h2>
+<ul>
+  <li><strong>Firma inválida:</strong> reimporta la clave pública y verifica fecha de archivos.</li>
+  <li><strong>Dependencias faltantes:</strong> <span class="kbd">sudo apt -f install -y</span> tras la instalación.</li>
+  <li><strong>Audio:</strong> confirma libasound2 y ejecuta desde terminal para ver logs.</li>
+  <li><strong>Ícono:</strong> refresca la caché o relanza la sesión si el ícono no aparece de inmediato.</li>
+</ul>
+
+<p><a href="#top">Volver arriba</a></p>
+</body>
+</html>
+
