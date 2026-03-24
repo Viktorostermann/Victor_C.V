@@ -1,0 +1,29 @@
+{
+    "workbench.editor.empty.hint": "hidden",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-windows": "C:\\Users\\LENOVO\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vscode-kubernetes.minikube-path-windows": "C:\\Users\\LENOVO\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+    },
+    "editor.inlineSuggest.syntaxHighlightingEnabled": true,
+    "refactai.addressURL": "Refact",
+    "refactai.apiKey": "aUPmGh3xKEgBApqA7ATsiBlz",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "git.autofetch": true,
+    "oneDarkPro.bold": false,
+    "workbench.productIconTheme": "cs-fluent-icons",
+    "workbench.iconTheme": "vscode-icons",
+    "better-comments.highlightPlainText": true,
+    "editor.defaultFormatter": "aaron-bond.better-comments",
+    "notebook.defaultFormatter": "aaron-bond.better-comments",
+    "tabnine.experimentalAutoImports": true,
+    "git.openRepositoryInParentFolders": "always",
+    "supermaven.otherWarning": false,
+    "projectManager.git.baseFolders": [
+        "C:\\Proyectos\\Python\\FastAPI\\Project_API_Pokemon",
+        "C:\\Proyectos\\Python"
+    ],
+    "terminal.integrated.initialHint": false
+}
