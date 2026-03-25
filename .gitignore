@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+verificacion_ignore.py
 
 # Entornos
 .env
@@ -55,3 +56,9 @@ Desktop.ini
 *.tmp
 *.bak
 *.swp
+
+# ---------------- GIF DEL README PRINCIPAL REPOSITORIO----------------
+687474~1.SVG
+CCS3.gif
+Discord.gif
+HTML5.gif
