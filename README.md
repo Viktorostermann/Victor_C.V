@@ -22,7 +22,7 @@
 		➤ Texto a voz: https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/<br>
 		➤ Juego_Pong:  https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view?usp=sharing <br><br>
 <li>🐙<b> Experiences Hibridas: https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049
-<li>😄<b> Pronouns:Viktore [ Conquer Ranks Bronce III ] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+<li>😄<b> Pronouns:Viktore ' Conquer Ranks Bronce III ' <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <br>
 
 <div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000">
