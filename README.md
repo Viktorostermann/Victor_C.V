@@ -51,7 +51,7 @@
 <h3>🐙 Experiences Híbridas</h3>
 
 <p style="font-size:14px;">
-	<li>➤ <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049">Perfil LinkedIn</a>
+  <li>➤ <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049">Perfil LinkedIn</a></li>
 </p>
 
 <h1 align="left"></h1>
