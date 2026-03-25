@@ -217,6 +217,9 @@ install.bash
 .ps1
 run_module.ps1
 run_module.bat
+*.bat
+*.ps1
+*.bash
 
 # ---------------- GLOBAL IGNORE RECOMENDADO ----------------
 # Archivos de sistema (Windows / macOS)
