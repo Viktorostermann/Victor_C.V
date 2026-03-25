@@ -16,12 +16,6 @@
 <li>👯<b> I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
 <li>🤔<b> I’m looking for help with : Find my first Job on Software Development.<br>
 <li>💬<b> Ask me about : Linux and Windows / Python / Git & GitHub / VsCode / Arduino / Virtual Machine / MySQL.<br>
-<li>📫<b> How to reach me:
-<li>[![💬 Discord](https://img.shields.io/badge/Discord-Contactar-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1188712701015363649)
-<li>[![📧 Gmail](https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktoremiletic@gmail.com)
-<li>[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v%C3%ADctor-miletic-89656049)
-<li>[![📱 Telegram](https://img.shields.io/badge/Telegram-Escribir-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@viktorostermann)
-<br>
 <li>🔭<b> Others: Spanish native. Nivel B1 en Croatian and B2 English languaje.
 <li>[![🚀 Proyectos](https://img.shields.io/badge/LinkedIn-Proyectos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/details/projects/)<br>
 <li>➤ Texto a voz: https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/<br>
@@ -29,7 +23,16 @@
 <li>🐙<b> Experiences Hibridas: https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049
 <li>😄<b> Pronouns:Viktore ' Conquer Ranks Bronce III ' <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <br>
+<li>📫<b> How to reach me:
 
+[![💬 Discord](https://img.shields.io/badge/Discord-Contactar-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1188712701015363649)
+
+[![📧 Gmail](https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktoremiletic@gmail.com)
+
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v%C3%ADctor-miletic-89656049)
+
+[![📱 Telegram](https://img.shields.io/badge/Telegram-Escribir-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/viktorostermann)
+<br>
 <div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000">
 <br>
 
