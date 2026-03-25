@@ -17,8 +17,7 @@
 <li>🤔<b> I’m looking for help with : Find my first Job on Software Development.<br>
 <li>💬<b> Ask me about : Linux and Windows / Python / Git & GitHub / VsCode / Arduino / Virtual Machine / MySQL.<br>
 <li>🔭<b> Others: Spanish native. Nivel B1 en Croatian and B2 English languaje.<br>
-<li>🚀<b> Proyectos: 
-<li>➤ https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJVY5lq3fRbKJ5GGiQpAlnA%3D%3D<br>
+<li>🚀<b> Proyectos:
 <li>➤ https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/details/projects/<br>
 <li>➤ Texto a voz: https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/<br>
 <li>➤ Juego_Pong:  https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view?usp=sharing <br><br>
