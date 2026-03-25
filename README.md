@@ -41,7 +41,6 @@
 <h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture> Habilidades en Desarrollo <h6><br>
 
 <h3>🚀 Proyectos</h3>
-
 <ul style="font-size:14px;">
   <li>➤ <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/details/projects/">Enlace LinkedIn</a></li>
   <li>➤ <a href="https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/">Texto a voz</a></li>
@@ -49,7 +48,6 @@
 </ul>
 
 <h3>🐙 Experiences Híbridas</h3>
-
 <p style="font-size:14px;">
   <li>➤ <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049">Perfil LinkedIn</a></li>
 </p>
