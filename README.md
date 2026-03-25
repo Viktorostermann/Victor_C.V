@@ -42,9 +42,11 @@
 
 <h3>🚀 Proyectos</h3>
 <ul style="font-size:14px;">
-  <li>➤ <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/details/projects/">Enlace LinkedIn</a></li>
-  <li>➤ <a href="https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/">Texto a voz</a></li>
-  <li>➤ <a href="https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view">Juego Pong</a></li>
+  <li>➤ 💼 <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/details/projects/">Proyectos en LinkedIn</a></li>
+  
+  <li>➤ 🪟🐧 <a href="https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/">Texto a Voz (Windows / Linux)</a></li>
+  
+  <li>➤ 🐧 <a href="https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view">Juego Pong (Linux)</a></li>
 </ul>
 
 <h3>🐙 Experiences Híbridas</h3>
