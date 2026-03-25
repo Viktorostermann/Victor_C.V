@@ -213,9 +213,10 @@ dmypy.json
 # Others
 .vsix
 .bat
-.bash
+install.bash
 .ps1
-
+run_module.ps1
+run_module.bat
 
 # ---------------- GLOBAL IGNORE RECOMENDADO ----------------
 # Archivos de sistema (Windows / macOS)
