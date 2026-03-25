@@ -212,6 +212,10 @@ dmypy.json
 
 # Others
 .vsix
+.bat
+.bash
+.ps1
+
 
 # ---------------- GLOBAL IGNORE RECOMENDADO ----------------
 # Archivos de sistema (Windows / macOS)
@@ -227,6 +231,7 @@ Desktop.ini
 
 # Configuración de VSCode
 .vscode/
+.ini
 
 # Configuración de JetBrains
 .idea/

@@ -20,7 +20,19 @@ cd Api_PokeAPI
 
 Instalar dependencias:
 
-pip install -r requirements.txt
+pip install -r requirements.txt:
+
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+SQLAlchemy==2.0.25
+alembic==1.13.1
+python-dotenv==1.0.1
+matplotlib==3.8.3
+pandas==2.2.1
+numpy==1.26.4
+python-dateutil==2.9.0.post0
+six==1.17.0
+tzdata==2025.3
 
 ## Ejecutar la aplicación
 
