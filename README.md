@@ -69,9 +69,9 @@
 </ul>
 
 <h3>🐙 Experiences Híbridas</h3>
-<p style="font-size:14px;">
+<ul style="font-size:14px;">
   <li>➤ <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049">Perfil LinkedIn</a></li>
-</p>
+</ul>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Mark up Languages</div><br>
