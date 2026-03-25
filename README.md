@@ -15,7 +15,7 @@
 <li>🌱<b> I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com
 <li>👯<b> I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
 <li>🤔<b> I’m looking for help with : Find my first Job on Software Development.<br>
-<li>💬<b> Ask me about : Linux and Windows / Python / Git & GitHub / VsCode / Arduino / Virtual Machine / SQL.<br>
+<li>💬<b> Ask me about : Linux and Windows / Python / Git & GitHub / VsCode / Arduino / Virtual Machine / MySQL.<br>
 <li>📫<b> How to reach me: viktoremiletic@gmail.com.<br>
 <li>🔭<b> Others: Spanish native. Nivel B1 en Croatian and B2 English languaje.
 <li>☕️<b>  Proyectos:<br>
