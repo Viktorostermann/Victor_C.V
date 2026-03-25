@@ -40,17 +40,19 @@
 
 <h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture> Habilidades en Desarrollo <h6><br>
 
-<h1 align="left">
-	
-<li>🚀<b> Proyectos:
-<li>➤ Enlace Linkedin: https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/details/projects/<br>
-<li>➤ Texto a voz: https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/<br>
-<li>➤ Juego_Pong:  https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view?usp=sharing <br><br>
-<li>🐙<b> Experiences Hibridas: https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049
-	
-<p></p>
-<h1>
-</h1>
+<h3>🚀 Proyectos</h3>
+
+<ul style="font-size:14px;">
+  <li>➤ <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/details/projects/">Enlace LinkedIn</a></li>
+  <li>➤ <a href="https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/">Texto a voz</a></li>
+  <li>➤ <a href="https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view">Juego Pong</a></li>
+</ul>
+
+<h3>🐙 Experiences Híbridas</h3>
+
+<p style="font-size:14px;">
+  ➤ <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049">Perfil LinkedIn</a>
+</p>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Mark up Languages</div><br>
