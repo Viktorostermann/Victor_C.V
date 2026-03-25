@@ -23,16 +23,21 @@
 <li>🐙<b> Experiences Hibridas: https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049
 <li>😄<b> Pronouns:Viktore ' Conquer Ranks Bronce III ' <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <br>
-<li>📫<b> How to reach me:
-
-[![💬 Discord](https://img.shields.io/badge/Discord-Contactar-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1188712701015363649)
-
-[![📧 Gmail](https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktoremiletic@gmail.com)
-
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v%C3%ADctor-miletic-89656049)
-
-[![📱 Telegram](https://img.shields.io/badge/Telegram-Escribir-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/viktorostermann)
-<br>
+<h2>📬 Contacto</h2>
+<p>
+  <a href="https://discord.com/users/1188712701015363649">
+    <img src="https://img.shields.io/badge/Discord-Contactar-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:viktoremiletic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/v%C3%ADctor-miletic-89656049">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/viktorostermann">
+    <img src="https://img.shields.io/badge/Telegram-Escribir-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 <div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000">
 <br>
 
