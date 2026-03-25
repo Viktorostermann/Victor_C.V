@@ -12,36 +12,66 @@
 
 <h1 align="justify"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic..;Victor+Miletic+is+a+Information+Systems+Engineering..;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)..;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert..;Self+taught+Arduino..;Croatian+English+and+others+language+student..;Active+Learner+and+Researcher..;A+technology+blockchain+and+Cripto+enthusiast..;Love+to+learn+new+stuffs."></h1><br>
 
-<li>🌱<b> I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com
-<li>👯<b> I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
-<li>🤔<b> I’m looking for help with : Find my first Job on Software Development.<br>
-<li>💬<b> Ask me about : Linux and Windows / Python / Git & GitHub / VsCode / Arduino / Virtual Machine / SQL.<br>
-<li>📫<b> How to reach me: viktoremiletic@gmail.com.<br>
-<li>🔭<b> Others: Spanish native. Nivel B1 en Croatian and English languaje:
-<li>☕️<b> I’m currently working: Texto a voz: https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/ y Juego_Pong:
-	https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view?usp=sharing <br>
-<li>🐙<b> Experiences: https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049
-<li>😄<b> Pronouns:Viktore [ Conquer Ranks Bronce I ] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-<br>
+<ul style="font-size:14px; line-height:1.8;">
 
+  <ul style="font-size:14px; line-height:1.8;">
+
+  <li>🌱 <b>I’m currently learning:</b> FullStack Master of Software Development  
+  ➤ <a href="https://www.conquerx.com">ConquerX</a></li>
+
+  <br>
+
+  <li>👯 <b>I’m looking to collaborate on:</b>  
+  Software Development (Backend / Frontend) & Deployment automation with Arduino</li>
+
+  <br>
+  <li>🤔 <b>I’m looking for help with:</b>  
+  Finding my first job in Software Development</li>
+  <br>
+  <li>💬 <b>Ask me about:</b>  
+  Linux, Windows, Python, Git & GitHub, VS Code, Arduino, Virtual Machines, MySQL</li>
+  <br>
+  <li>🔭 <b>Others:</b>  
+  Spanish (native), Croatian (B1), English (B2)</li>
+  <br>
+  <li>😄 <b>Pronouns:</b> Viktore — "Conquer Ranks Bronze III"  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></li>
+</ul>
+
+<h2>📬 Contacto</h2>
+<p>
+  <a href="https://discord.com/users/1188712701015363649">
+    <img src="https://img.shields.io/badge/Discord-Contactar-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:viktoremiletic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/v%C3%ADctor-miletic-89656049">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/viktorostermann">
+    <img src="https://img.shields.io/badge/Telegram-Escribir-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 <div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000">
 <br>
 
 
-<h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture> Habilidades en Desarrollo <h6><br>
+<h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture> Proyectos y Habilidades en Desarrollo <h6><br>
 
-<h1 align="left">
-<div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Programming Languages</div><br>
-<li><img height="25" width="100" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"><br/>
-<li><img height="25" width="90" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"><br/>
-<li><img height="25" width="78" alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"><br/>
-<li><img height="25" width="55" alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"><br/>
-<li><img height="25" width="52" alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"><br/>
-<li><img height="25" width="52" alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"><br/>
-<li><img height="45" width="58" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"><br/>
-<p></p>
-<h1>
-</h1>
+<h3>🚀 Proyectos</h3>
+<ul style="font-size:14px;">
+  <li>➤ 💼 <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/details/projects/">Proyectos en LinkedIn</a></li>
+  
+  <li>➤ 🪟🐧 <a href="https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/">Texto a Voz (Windows / Linux)</a></li>
+  
+  <li>➤ 🐧 <a href="https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view">Juego Pong (Linux)</a></li>
+</ul>
+
+<h3>🐙 Experiences Híbridas</h3>
+<ul style="font-size:14px;">
+  <li>➤ <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049">Perfil LinkedIn</a></li>
+</ul>
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">👨‍💻Mark up Languages</div><br>
@@ -107,9 +137,22 @@
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 🤝 Connect with me</div><br>
-<li><img height="25" width="65" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white">
-<li><img height="25" width="65" alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
-<li><img height="25" width="65" alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"><br>	
+<p>
+  <a href="https://discord.com/users/1188712701015363649">
+    <img src="https://img.shields.io/badge/Discord-Contactar-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:viktoremiletic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/v%C3%ADctor-miletic-89656049">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/viktorostermann">
+    <img src="https://img.shields.io/badge/Telegram-Escribir-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+<div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000">
+<br>	
 <p></p>
 <h1>
 </h1>
