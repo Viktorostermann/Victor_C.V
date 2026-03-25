@@ -122,9 +122,23 @@
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 🤝 Connect with me</div><br>
-<li><img height="25" width="65" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white">
-<li><img height="25" width="65" alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
-<li><img height="25" width="65" alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"><br>	
+<h2>📬 Contacto</h2>
+<p>
+  <a href="https://discord.com/users/1188712701015363649">
+    <img src="https://img.shields.io/badge/Discord-Contactar-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:viktoremiletic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/v%C3%ADctor-miletic-89656049">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/viktorostermann">
+    <img src="https://img.shields.io/badge/Telegram-Escribir-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+<div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000">
+<br>	
 <p></p>
 <h1>
 </h1>
