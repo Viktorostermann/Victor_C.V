@@ -38,7 +38,7 @@
 <br>
 
 
-<h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture> Habilidades en Desarrollo <h6><br>
+<h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture> Proyectos y Habilidades en Desarrollo <h6><br>
 
 <h3>🚀 Proyectos</h3>
 <ul style="font-size:14px;">
