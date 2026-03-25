@@ -13,10 +13,15 @@
 <h1 align="justify"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&left=true&vleft=true&width=800&height=35&lines=Hi!+I'm+Victor+Miletic..;Victor+Miletic+is+a+Information+Systems+Engineering..;Full-Stack+Student+at+ConquerBlocks;Full-Stack+Developer+(JR)..;A+passionate+aspiring+Full-Stack+developer;Aspiring+Information+Security+Systems+Expert..;Self+taught+Arduino..;Croatian+English+and+others+language+student..;Active+Learner+and+Researcher..;A+technology+blockchain+and+Cripto+enthusiast..;Love+to+learn+new+stuffs."></h1><br>
 
 <li>🌱<b> I’m currently learning a FullStack Master of Software Development: https://www.conquerx.com
-<li>👯<b> I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino<br>
-<li>🤔<b> I’m looking for help with : Find my first Job on Software Development.<br>
-<li>💬<b> Ask me about : Linux and Windows / Python / Git & GitHub / VsCode / Arduino / Virtual Machine / MySQL.<br>
-<li>🔭<b> Others: Spanish native. Nivel B1 en Croatian and B2 English languaje.<br>
+	<br>
+<li>👯<b> I’m looking to collaborate on: Software Development Backend-FrontEnd / Deployment and automation with Arduino
+	<br>
+<li>🤔<b> I’m looking for help with : Find my first Job on Software Development.
+	<br>
+<li>💬<b> Ask me about : Linux and Windows / Python / Git & GitHub / VsCode / Arduino / Virtual Machine / MySQL.
+	<br>
+<li>🔭<b> Others: Spanish native. Nivel B1 en Croatian and B2 English languaje.
+	<br>
 <li>😄<b> Pronouns:Viktore ' Conquer Ranks Bronce III ' <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <br>
 <h2>📬 Contacto</h2>
