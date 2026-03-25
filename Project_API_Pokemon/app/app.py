@@ -915,7 +915,7 @@ with tab3:
                 
             """, unsafe_allow_html=True)
 
-# ----------------------------------------------------------- La Web --------------------------------------------------------------- #
+# ------------------------------------- Markdown Enlace Contacto Foot ------------------------------ # 
        
 st.markdown("---")
 
@@ -938,24 +938,25 @@ st.markdown(
     <div style='display: flex; align-items: center; justify-content: space-between;'>
         <!-- Bloque de iconos alineados a la izquierda -->
         <div style='text-align: right;'>
-            <a href="https://www.linkedin.com/in/tuusuario" target="_blank" style="margin-right:15px;">
+            <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/" target="_blank" style="margin-right:5px;">
                 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">
             </a>
-            <a href="https://wa.me/51999999999" target="_blank" style="margin-right:15px;">
+            <a href="https://wa.me/51939182565" target="_blank" style="margin-right:5px;">
                 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30">
             </a>
-            <a href="https://www.youtube.com/@tuusuario" target="_blank" style="margin-right:15px;">
+            <a href="https://www.youtube.com/@ViktoreMiletic-gm5cp" target="_blank" style="margin-right:5px;">
                 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30">
             </a>
-            <a href="https://www.facebook.com/tuusuario" target="_blank" style="margin-right:15px;">
+            <a href="https://www.facebook.com/tuusuario" target="_blank" style="margin-right:5px;">
                 <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30">
             </a>
-            <a href="https://x.com/tuusuario" target="_blank" style="margin-right:15px;">
-                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968833.png" width="30">
-
-
+            <a href="https://discord.com/users/1188712701015363649" target="_blank" style="margin-right:5px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="30">
+            </a>
+            <a href="https://t.me/viktorostermann" target="_blank" style="margin-right:5px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30">
+            </a>
 </a>
-
     """,
     unsafe_allow_html=True
 )
