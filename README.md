@@ -122,7 +122,6 @@
 
 <h1 align="left"></h1>
 <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 🤝 Connect with me</div><br>
-<h2>📬 Contacto</h2>
 <p>
   <a href="https://discord.com/users/1188712701015363649">
     <img src="https://img.shields.io/badge/Discord-Contactar-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
