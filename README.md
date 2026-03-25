@@ -20,8 +20,8 @@
 <li>🔭<b> Others: Spanish native. Nivel B1 en Croatian and B2 English languaje.
 <li>☕️<b> Otros Proyectos:<br>
 		➤ Texto a voz: https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/<br>
-		➤ Juego_Pong:  https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view?usp=sharing <br>
-<li>🐙<b> Experiences: https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049
+		➤ Juego_Pong:  https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view?usp=sharing <br><br>
+<li>🐙<b> Experiences Hibridas: https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049
 <li>😄<b> Pronouns:Viktore [ Conquer Ranks Bronce I ] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <br>
 
