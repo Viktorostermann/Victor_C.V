@@ -67,7 +67,7 @@
   
   <li>➤ 🐧 <a href="https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view">Juego Pong (Linux / Python)</a></li>
 
-  <li>➤ 🪟 <a href="https://drive.google.com/drive/folders/1e2gmW11AaSYqXbvt4c-M5mohlmx32stU?usp=drive_link> Landing Estadisticas de Pokémons (Windows / Python / Streamlit)</a></li>
+  <li>➤ 🪟 <a href="https://drive.google.com/drive/folders/1e2gmW11AaSYqXbvt4c-M5mohlmx32stU?usp=drive_link">Landing Estadisticas de Pokémons (Windows / Python / Streamlit)</a></li>
 </ul>
 
 <h3>🐙 Experiences Híbridas</h3>
