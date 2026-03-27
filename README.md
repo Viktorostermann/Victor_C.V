@@ -67,7 +67,7 @@
   
   <li>➤ 🐧 <a href="https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view">Juego Pong (Linux / Python)</a></li>
 
-  <li>➤ <img src="https://copilot.microsoft.com/th/id/BCO.0793416f-daa9-4f8c-8d9e-0cfa143b9db5.png" width="16" height="16">
+  <li>➤ <img width="1024" height="1024" alt="Copilot_20260327_153835" src="https://github.com/user-attachments/assets/46a2a904-a56d-426a-9b7f-595a3e0fc68e" />
  <a href="https://drive.google.com/file/d/17BF-9SqNmLuSEHDXURbUA4M_jo_PRZvo/view?usp=sharing">Landing Estadisticas de Pokémons (Windows / Python / Streamlit)</a></li>
 </ul>
 
