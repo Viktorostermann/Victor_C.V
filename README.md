@@ -22,19 +22,19 @@
   <br>
 
   <li>👯 <b>I’m looking to collaborate on:</b>  
-  Software Development (Backend / Frontend) & Deployment automation with Arduino</li>
+  Software Development (Backend / Frontend) & Deployment automation, Ingenieria de Sistemas</li>
 
   <br>
   <li>🤔 <b>I’m looking for help with:</b>  
   Finding my first job in Software Development</li>
   <br>
   <li>💬 <b>Ask me about:</b>  
-  Linux, Windows, Python, Git & GitHub, VS Code, Arduino, Virtual Machines, MySQL</li>
+  Linux, Windows, Python, Git & GitHub, VS Code, Arduino, Virtual Machines, MySQL, ORM, SAP MM</li>
   <br>
   <li>🔭 <b>Others:</b>  
   Spanish (native), Croatian (B1), English (B2)</li>
   <br>
-  <li>😄 <b>Pronouns:</b> Viktore — "Conquer Ranks Bronze III"  
+  <li>😄 <b>Pronouns:</b> Viktore — "ConquerBlocks Ranks Bronze III"  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></li>
 </ul>
 
