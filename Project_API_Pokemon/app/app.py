@@ -1,4 +1,4 @@
-''' App que ofrece informacion estadisticas de los Pokémons y Pemite Realizar y Visualizar Comparaciones entre Pokémons
+''' App que ofrece información estadisticas de los Pokémons y Pemite Realizar y Visualizar Comparaciones entre Pokémons
 Ademas de que tienes la posibilidad de realizar carga de nuevos Pokémons y sus caracteristicas, si no los tienes en la DB
 Por otro lado, tambien permite modificarlos, eliminarlos, volver a cargarlos, ademas, puedes generar un reporte tipo data
 sheet y un reporte de comparaciones entre los Pokémons imprimible paraa coleccionar'''
