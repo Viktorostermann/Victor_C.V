@@ -59,13 +59,15 @@
 
 <h1 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 65px></picture> Proyectos y Habilidades en Desarrollo <h6><br>
 
-<h3>🚀 Proyectos</h3>
+<h3>🚀 Proyectos Python y Streamlit </h3>
 <ul style="font-size:14px;">
   <li>➤ 💼 <a href="https://www.linkedin.com/in/v%C3%ADctor-miletic-89656049/details/projects/">Proyectos en LinkedIn</a></li>
   
-  <li>➤ 🪟🐧 <a href="https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/">Texto a Voz (Windows / Linux)</a></li>
+  <li>➤ 🪟🐧 <a href="https://viktorostermann.github.io/Texto_a_Voz_TkInter_v1/">Texto a Voz (Windows / Linux / Python)</a></li>
   
-  <li>➤ 🐧 <a href="https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view">Juego Pong (Linux)</a></li>
+  <li>➤ 🐧 <a href="https://drive.google.com/file/d/1ZS6QaJPqShYhsKTbmopUzBSZjk_WSet-/view">Juego Pong (Linux / Python)</a></li>
+
+  <li>➤ 📊 <a href="https://drive.google.com/file/d/17BF-9SqNmLuSEHDXURbUA4M_jo_PRZvo/view?usp=sharing">Landing Estadisticas de Pokémons (Windows / Python / Streamlit)</a></li>
 </ul>
 
 <h3>🐙 Experiences Híbridas</h3>
