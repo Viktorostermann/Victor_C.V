@@ -16,7 +16,7 @@
 
   <ul style="font-size:14px; line-height:1.8;">
 
-  <li>🌱 <b>I’m currently learning:</b> FullStack Master of Software Development  
+  <li>🌱 <b>Ing. Informatica. I’m currently learning:</b> FullStack Master of Software Development  
   ➤ <a href="https://www.conquerx.com">ConquerX</a></li>
 
   <br>
