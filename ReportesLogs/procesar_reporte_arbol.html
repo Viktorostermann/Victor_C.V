@@ -1,0 +1,45 @@
+
+---
+
+## 🔹 HTML equivalente con claridad y árbol visual
+
+```html
+<html>
+<body>
+<h1>Reporte Global de Logs - PokedexPersonal</h1>
+
+<h2>Error: ArrowInvalid (mezcla de tipos en DataFrame)</h2>
+<p><b>Día:</b> Lunes<br>
+<b>Fecha:</b> 2026-03-30 11:01:19<br>
+<b>Criticidad:</b> Error<br>
+<b>Por qué falla:</b> El sistema intenta convertir valores de texto como 'bulbasaur' a int64.<br>
+<b>Solución:</b> Convertir columnas mixtas a string con .astype(str).</p>
+<ul>
+  <li>Problema → ArrowInvalid</li>
+  <li>Solución → Convertir columnas mixtas a string</li>
+</ul>
+
+<h2>Warning: Parámetro obsoleto use_container_width</h2>
+<p><b>Día:</b> Lunes<br>
+<b>Fecha:</b> 2026-03-30 11:01:19<br>
+<b>Criticidad:</b> Warning<br>
+<b>Por qué falla:</b> El parámetro use_container_width está en desuso.<br>
+<b>Solución:</b> Sustituir por width="stretch" o width="content".</p>
+<ul>
+  <li>Problema → use_container_width obsoleto</li>
+  <li>Solución → Sustituir por width</li>
+</ul>
+
+<h2>Warning: Label vacío en slider</h2>
+<p><b>Día:</b> Lunes<br>
+<b>Fecha:</b> 2026-03-30 11:01:21<br>
+<b>Criticidad:</b> Warning<br>
+<b>Por qué falla:</b> Slider definido con label vacío.<br>
+<b>Solución:</b> Definir texto en label o colapsarlo con label_visibility.</p>
+<ul>
+  <li>Problema → Label vacío</li>
+  <li>Solución → Definir texto o colapsar</li>
+</ul>
+
+</body>
+</html>

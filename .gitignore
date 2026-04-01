@@ -4,6 +4,20 @@ __pycache__/
 *$py.class
 verificacion_ignore.py
 
+
+# ---------------- ARCHIVOS RAIZ DEL REPOSITORIO PRINCIPAL----------------
+/687474~1.SVG
+/CCS3.gif
+/Discord.gif
+/HTML5.gif
+/extensions.txt
+/pyvenv.cfg
+/amazonq_config.json
+/amazonq_config_notes.md
+/.gitattributes
+
+# ---------------- ARCHIVOS RAIZ DEL REPOSITORIO PRINCIPAL----------------
+
 # Entornos
 .env
 .venv
@@ -34,7 +48,9 @@ amazonq_config.json
 amazonq_config_notes.md
 preflight_issues.sh
 .gitattributes
-
+/PokedexPersonal_NEW.pfx
+/PokedexPersonal.iss
+/PokedexPersonal.spec
 # ---------------- EDITORES ----------------
 .vscode/
 .idea/
@@ -58,7 +74,7 @@ Desktop.ini
 *.swp
 
 # ---------------- GIF DEL README PRINCIPAL REPOSITORIO----------------
-687474~1.SVG
-CCS3.gif
-Discord.gif
-HTML5.gif
+/687474~1.SVG
+/CCS3.gif
+/Discord.gif
+/HTML5.gif
