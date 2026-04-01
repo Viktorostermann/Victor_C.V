@@ -1,0 +1,80 @@
+# ---------------- PYTHON ----------------
+__pycache__/
+*.py[cod]
+*$py.class
+verificacion_ignore.py
+
+
+# ---------------- ARCHIVOS RAIZ DEL REPOSITORIO PRINCIPAL----------------
+/687474~1.SVG
+/CCS3.gif
+/Discord.gif
+/HTML5.gif
+/extensions.txt
+/pyvenv.cfg
+/amazonq_config.json
+/amazonq_config_notes.md
+/.gitattributes
+
+# ---------------- ARCHIVOS RAIZ DEL REPOSITORIO PRINCIPAL----------------
+
+# Entornos
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ---------------- BUILDS ----------------
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ---------------- BINARIOS ----------------
+*.exe
+*.zip
+
+# ---------------- SCRIPTS ----------------
+*.bat
+*.ps1
+*.bash
+
+# ---------------- PROYECTO ----------------
+snippets/
+build.log
+extensions.txt
+amazonq_config.json
+amazonq_config_notes.md
+preflight_issues.sh
+.gitattributes
+/PokedexPersonal_NEW.pfx
+/PokedexPersonal.iss
+/PokedexPersonal.spec
+# ---------------- EDITORES ----------------
+.vscode/
+.idea/
+
+# ---------------- SISTEMA ----------------
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---------------- LOGS ----------------
+*.log
+
+# ---------------- TEST / CACHE ----------------
+.coverage
+.pytest_cache/
+.mypy_cache/
+
+# ---------------- OTROS ----------------
+*.tmp
+*.bak
+*.swp
+
+# ---------------- GIF DEL README PRINCIPAL REPOSITORIO----------------
+/687474~1.SVG
+/CCS3.gif
+/Discord.gif
+/HTML5.gif

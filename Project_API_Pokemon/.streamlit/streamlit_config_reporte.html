@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Configuración de Streamlit - config.toml</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; background-color: #f9f9f9; color: #333; }
+        h1, h2, h3 { color: #2c3e50; }
+        code { background-color: #eee; padding: 2px 4px; border-radius: 4px; }
+        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+        th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }
+        th { background-color: #f0f0f0; }
+        .section { margin-bottom: 40px; }
+    </style>
+</head>
+<body>
+
+<h1>📘 Configuración de Streamlit: <code>config.toml</code></h1>
+
+<p>Este documento explica detalladamente cómo configurar el archivo <code>config.toml</code> de Streamlit, qué hace cada instrucción, sus valores posibles y cómo afecta el comportamiento del servidor.</p>
+
+<div class="section">
+    <h2>📁 Ubicación del archivo</h2>
+    <p>El archivo <code>config.toml</code> debe ubicarse dentro de una carpeta oculta llamada <code>.streamlit</code> en la raíz del proyecto:</p>
+    <pre><code>/mi-proyecto/.streamlit/config.toml</code></pre>
+</div>
+
+<div class="section">
+    <h2>🔧 Sección <code>[server]</code></h2>
+
+    <h3>1. <code>headless = true</code></h3>
+    <p>Ejecuta Streamlit en modo <strong>headless</strong>, es decir, sin abrir automáticamente el navegador al iniciar.</p>
+    <ul>
+        <li><code>true</code>: No abre navegador (modo silencioso).</li>
+        <li><code>false</code>: Abre navegador automáticamente.</li>
+    </ul>
+
+    <h3>2. <code>port = 8501</code></h3>
+    <p>Define el <strong>puerto</strong> en el que se levantará el servidor de Streamlit.</p>
+    <ul>
+        <li>Valor por defecto: <code>8501</code></li>
+        <li>Puedes cambiarlo a otro (ej. <code>8051</code>, <code>8080</code>) si el puerto está ocupado.</li>
+    </ul>
+
+    <h3>3. <code>enableCORS = false</code></h3>
+    <p>Controla si se permite el acceso desde otros dominios (Cross-Origin Resource Sharing).</p>
+    <ul>
+        <li><code>true</code>: Permite acceso desde otros orígenes.</li>
+        <li><code>false</code>: Restringe acceso solo al mismo dominio.</li>
+    </ul>
+
+    <h3>4. <code>enableXsrfProtection = false</code></h3>
+    <p>Activa o desactiva la protección contra ataques <strong>Cross-Site Request Forgery (XSRF)</strong>.</p>
+    <ul>
+        <li><code>true</code>: Activa protección con tokens de seguridad.</li>
+        <li><code>false</code>: Desactiva protección (útil en desarrollo).</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>📊 Tabla comparativa de valores y efectos</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Parámetro</th>
+                <th>Valor</th>
+                <th>Efecto</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>headless</td><td>true</td><td>No abre navegador automáticamente</td></tr>
+            <tr><td>headless</td><td>false</td><td>Abre navegador al iniciar</td></tr>
+            <tr><td>port</td><td>8501</td><td>Puerto por defecto del servidor</td></tr>
+            <tr><td>enableCORS</td><td>true</td><td>Permite acceso desde otros dominios</td></tr>
+            <tr><td>enableCORS</td><td>false</td><td>Restringe acceso solo local</td></tr>
+            <tr><td>enableXsrfProtection</td><td>true</td><td>Activa protección contra ataques CSRF</td></tr>
+            <tr><td>enableXsrfProtection</td><td>false</td><td>Desactiva protección (menos seguro)</td></tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="section">
+    <h2>📄 Ejemplo completo de configuración</h2>
+    <pre><code>[server]
+headless = true
+port = 8051
+enableCORS = false
+enableXsrfProtection = true</code></pre>
+    <p>Este ejemplo configura el servidor para ejecutarse en modo silencioso en el puerto 8051, sin permitir acceso externo y con protección CSRF activada.</p>
+</div>
+
+</body>
+</html>

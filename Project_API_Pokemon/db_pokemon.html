@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Base de Datos Pokémon</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0f172a;
+            color: #e2e8f0;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #38bdf8;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        .card {
+            background: #1e293b;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            border-bottom: 1px solid #334155;
+            text-align: left;
+        }
+
+        th {
+            color: #38bdf8;
+        }
+
+        .code {
+            background: #020617;
+            padding: 15px;
+            border-radius: 10px;
+            overflow-x: auto;
+            font-family: monospace;
+            color: #22c55e;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>📊 Base de Datos Pokémon</h1>
+
+    <div class="card">
+        <h2>📁 Información General</h2>
+        <p><strong>Nombre:</strong> pokemon</p>
+        <p><strong>Motor:</strong> InnoDB</p>
+        <p><strong>Charset:</strong> utf8mb4</p>
+    </div>
+
+    <div class="card">
+        <h2>🧬 Estructura de la Tabla: pokemon</h2>
+        <table>
+            <tr>
+                <th>Campo</th>
+                <th>Tipo</th>
+                <th>Descripción</th>
+            </tr>
+            <tr><td>id</td><td>INT (PK)</td><td>Identificador único</td></tr>
+            <tr><td>name</td><td>VARCHAR(100)</td><td>Nombre del Pokémon</td></tr>
+            <tr><td>height</td><td>INT</td><td>Altura</td></tr>
+            <tr><td>weight</td><td>INT</td><td>Peso</td></tr>
+            <tr><td>hp</td><td>INT</td><td>Puntos de vida</td></tr>
+            <tr><td>attack</td><td>INT</td><td>Ataque</td></tr>
+            <tr><td>defense</td><td>INT</td><td>Defensa</td></tr>
+            <tr><td>special_attack</td><td>INT</td><td>Ataque especial</td></tr>
+            <tr><td>special_defense</td><td>INT</td><td>Defensa especial</td></tr>
+            <tr><td>speed</td><td>INT</td><td>Velocidad</td></tr>
+            <tr><td>types</td><td>VARCHAR(100)</td><td>Tipos</td></tr>
+            <tr><td>abilities</td><td>VARCHAR(100)</td><td>Habilidades</td></tr>
+            <tr><td>generation</td><td>INT</td><td>Generación</td></tr>
+            <tr><td>region</td><td>VARCHAR(100)</td><td>Región</td></tr>
+            <tr><td>image_path</td><td>VARCHAR(100)</td><td>Ruta de imagen</td></tr>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>💻 Script SQL</h2>
+        <div class="code">
+CREATE DATABASE pokemon;
+USE pokemon;
+
+CREATE TABLE pokemon (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    height INT NOT NULL,
+    weight INT NOT NULL,
+    hp INT NOT NULL,
+    attack INT NOT NULL,
+    defense INT NOT NULL,
+    special_attack INT NOT NULL,
+    special_defense INT NOT NULL,
+    speed INT NOT NULL,
+    types VARCHAR(100),
+    abilities VARCHAR(100),
+    generation INT,
+    region VARCHAR(100),
+    image_path VARCHAR(100)
+);
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
