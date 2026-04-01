@@ -1,7 +1,0 @@
-Licencia de uso - PokedexPersonal
-
-Este software se entrega "tal cual", sin garantías de ningún tipo.
-El usuario puede instalar y utilizar la aplicación para fines personales.
-Queda prohibida la distribución comercial sin autorización del autor.
-
-© 2026 PokedexPersonal
