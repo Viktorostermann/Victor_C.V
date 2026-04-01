@@ -1,3 +1,6 @@
+import sys, io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
 import os
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -11,6 +14,9 @@ TOTAL_POKEMON = 1025
 ASSETS_DIR = os.path.abspath(
     os.path.join(os.path.dirname(__file__), "..", "assets", "pokemon_images")
 )
+
+# ... resto de tu código idéntico ...
+
 
 
 def download_pokemon_sprite(pokemon_id, sprite_url):

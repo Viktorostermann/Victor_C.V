@@ -4,7 +4,6 @@ Por otro lado, tambien permite modificarlos, eliminarlos, volver a cargarlos, ad
 sheet y un reporte de comparaciones entre los Pokémons imprimible paraa coleccionar'''
 
 # app.py
-
 # ---------------------------------- IMPORTACIONES DE LIBRERIAS ----------------------------------------- #
 import os
 import sys
@@ -12,17 +11,15 @@ import time
 import numpy as np
 import pandas as pd
 import streamlit as st
+from fpdf import FPDF
 import matplotlib.pyplot as plt
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 # ---------------------------------- IMPORTACIONES DE MODULOS ----------------------------------------- #
-
 from database.models import Pokemon
 from database.database import SessionLocal
+from api.pokeapi_client import get_pokemon_from_api
 from services.pokemon_service import preload_pokemon_range, get_pokemon_data
-from fastapi import FastAPI, Depends
-from sqlalchemy.orm import Session
-
 
 # ---------------------------------- CONFIGURACIÓN DE PÁGINA ------------------------------- #
 st.set_page_config(
@@ -290,6 +287,12 @@ with col_stats:
     right_rows = [("Attack", attack), ("Sp. Defense", sp_def), ("Speed", speed)]
 
     # Construir DataFrame con 4 columnas: Etiqueta A, Valor A, Etiqueta B, Valor B
+
+# ----------------------------------------- Tabla de Características (2 columnas) -------------------------------- #
+    # Correccicon Fecha de 2023-01-07.
+    # -- Correccion de Bloque por error en tiempo de ejecucion al cargar valores de: pyarrow.lib.ArrowInvalid: ("Could not convert 'bulbasaur' with type str: tried to convert to int64", 'Conversion failed for column Valor with type object')
+    # -- Esto ocurre en la línea donde construyes la tabla con pd.DataFrame(data.items(), columns=["Campo", "Valor"]).
+    # -- Pokémon número 1 (Bulbasaur) es que en tu tabla Valor se mezclan enteros (HP, Attack, Defense…) con cadenas (bulbasaur, tipos, habilidades). PyArrow intenta convertir toda la columna a int64 y falla justo en ese primer registro.
     rows = []
     max_len = max(len(left_rows), len(right_rows))
     for i in range(max_len):
@@ -299,11 +302,31 @@ with col_stats:
 
     df = pd.DataFrame(rows)
 
-    st.markdown("---", unsafe_allow_html=True)  
+    #'''st.markdown("---", unsafe_allow_html=True)  
     # Mostrar la tabla (data grid)
+    #st.title("Poderes del Pokémon")
+    #st.dataframe(df, use_container_width=True)'''
+    #st.markdown("---", unsafe_allow_html=True)
+
+    # ----------------------------------------- Tabla de Características (1 columna) -------------------------------- #
+    # Correccicon Fecha de 2023-01-07.
+    # -- Correccion de Bloque por error en tiempo de ejecución al cargar valores de: pyarrow.lib.ArrowInvalid: ("Could not convert 'bulbasaur' with type str: tried to convert to int64", 'Conversion failed for column Valor with type object')
+    # 🔹 Fuerza las columnas de valores a texto para evitar ArrowInvalid
+    
+    df["Valor A"] = df["Valor A"].astype(str)
+    df["Valor B"] = df["Valor B"].astype(str)
+
+    st.markdown("---", unsafe_allow_html=True)  
+
     st.title("Poderes del Pokémon")
-    st.dataframe(df, use_container_width=True)
+
+    # 🔹 Cambia use_container_width por width="stretch"
+    st.dataframe(df, width="stretch")
+
     st.markdown("---", unsafe_allow_html=True)
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 
 # -------- Mostrar Tipos y Habilidades debajo como una pequeña tabla para mantener consistencia visual --------- #
 
@@ -320,27 +343,43 @@ with col_stats:
 # ---------------------------------------------------- SECCIÓN PAGINA 2 ----------------------------------------- #
 
 
-
-# -------------------------------------------------- SECCION ESTADISTICAS --------------------------------------- #
+# ------- SECCION ESTADISTICAS --------------------------------------- #
 with tab2:
-    
-    # 1 saltos
     st.markdown("<br>", unsafe_allow_html=True)
-    
     st.subheader("📊 Comparativa de Pokémon")
 
     # Sliders alineados al ancho de las tablas (centro 90%)
     col_sl_a, col_sl_b = st.columns(2)
 
+    # Slider Pokémon 1
     with col_sl_a:
         slider_cols_a = st.columns([0.05, 0.90, 0.05])
         with slider_cols_a[1]:
-            low_id = st.slider("Pokémon 1", 1, TOTAL_POKEMON, 1, key="slider_low")
+            low_id = st.slider(
+                "Pokémon 1",
+                min_value=1,
+                max_value=TOTAL_POKEMON,
+                value=1,
+                key="slider_low",
+                label_visibility="visible"  # o "collapsed" si quieres ocultar el texto
+            )
 
+    # Slider Pokémon 2
     with col_sl_b:
         slider_cols_b = st.columns([0.05, 0.90, 0.05])
         with slider_cols_b[1]:
-            high_id = st.slider("Pokémon 2", 1, TOTAL_POKEMON, TOTAL_POKEMON, key="slider_high")
+            high_id = st.slider(
+                "Pokémon 2",
+                min_value=1,
+                max_value=TOTAL_POKEMON,
+                value=TOTAL_POKEMON,
+                key="slider_high",
+                label_visibility="visible"  # o "collapsed"
+            )
+ # Si no quieres mostrar el texto, usa label_visibility="collapsed" en lugar de dejarlo vacío.
+
+# ----------------------------------------------------------------------------------------------------------- # 
+    
 
     # Obtener datos de ambos Pokémon (una vez, después de los sliders)
     db = SessionLocal()
@@ -360,6 +399,7 @@ with tab2:
     max_val = max(max(vals_low), max(vals_high), 1)
     y_max = int(np.ceil(max_val / 10.0) * 10)
 
+    # Función para dibujar líneas de gráfico de comparación entre Pokémon
     def _plot_lines(ax, x_labels, main_vals, other_vals, main_label, other_label, color_main="#e63946"):
         x = np.arange(len(x_labels))
         ax.plot(x, other_vals, label=other_label, color="#999999", linewidth=1.5, linestyle="--", marker="o", alpha=0.6)
@@ -449,6 +489,7 @@ with tab2:
 with tab3:
     st.markdown("<h2 style='text-align:center;'>➕ Gestión de Pokémon</h2>", unsafe_allow_html=True)
     st.markdown("---", unsafe_allow_html=True)
+
     # ------------------------- Fila superior: Agregar + Data Grid ------------------------- #
     col_add, col_grid = st.columns([1, 1])
     with col_add:
@@ -720,9 +761,7 @@ with tab3:
                     db.close()
 
 # --------------------------------------------------------- Tabla de Pokémon 4  ------------------------------------------------------ #
-        from fpdf import FPDF
-        import os
-
+        
         def generar_pdf(pokemon, img_src):
             pdf = FPDF()
             pdf.add_page()
@@ -750,14 +789,17 @@ with tab3:
             ]
 
             for campo, valor in datos:
-                pdf.cell(0, 10, txt=f"{campo}: {valor}", ln=True)
+                pdf.cell(0, 10, txt=f"{campo}: {str(valor)}", ln=True)
 
             # Sprite
             if os.path.exists(img_src):
                 pdf.image(img_src, x=60, y=pdf.get_y()+10, w=80)
 
-            # ✅ Devuelve bytes en lugar de intentar encode
+            # Devuelve bytes directamente
             return bytes(pdf.output(dest="S"))
+
+
+# ---------------------------------------------------TAB 4 (DATA POKÉMON) --------------------------------------------------- #
 
         with tab4:
             # Título centrado
@@ -961,3 +1003,101 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.markdown("---")
+
+
+
+
+''' 
+# -------- Correcciones de warnings y ajustes visuales ---------- #
+
+📋 Problemas detectados en el log
+
+1. Error ArrowInvalid al serializar DataFrames
+Problema:  
+PyArrow intenta convertir columnas mixtas (texto + números) a int64. Ejemplo:
+
+Código:
+
+Could not convert 'bulbasaur' with type str: tried to convert to int64
+
+Solución posible:  
+Convertir explícitamente las columnas que contienen valores mixtos a string antes de mostrarlas en Streamlit.
+
+Scripts posibles:
+
+python
+# Script 1: Conversión en DataFrame de 4 columnas
+df = pd.DataFrame(rows)
+df["Valor A"] = df["Valor A"].astype(str)
+df["Valor B"] = df["Valor B"].astype(str)
+st.dataframe(df, width="stretch")
+python
+
+# Script 2: Conversión en DataFrame simple
+df = pd.DataFrame(data.items(), columns=["Campo", "Valor"])
+df["Valor"] = df["Valor"].astype(str)
+st.table(df)
+
+2. Warning: use_container_width obsoleto
+
+Problema:  
+El log muestra repetidamente:
+
+Código
+Please replace `use_container_width` with `width`
+
+Solución posible:  
+Reemplazar use_container_width=True por width="stretch" o width="content".
+
+Scripts posibles:
+
+python
+
+# Script 1: Para tablas
+st.dataframe(df, width="stretch")
+
+python
+# Script 2: Para imágenes
+st.image(pokemon_image, width="stretch")
+
+3. Warning: label vacío en sliders
+
+Problema:  
+El log indica:
+
+Código
+`label` got an empty value. This is discouraged for accessibility reasons...
+
+Solución posible:  
+Dar un label descriptivo o colapsarlo con label_visibility="collapsed".
+
+Scripts posibles:
+
+python
+# Script 1: Label visible
+pokemon_selector = st.slider(
+    "Selecciona Pokémon",
+    min_value=1, max_value=TOTAL_POKEMON, value=1,
+    key="slider_selector", label_visibility="visible"
+)
+
+python
+# Script 2: Label oculto pero válido
+pokemon_selector = st.slider(
+    "Selecciona Pokémon",
+    min_value=1, max_value=TOTAL_POKEMON, value=1,
+    key="slider_selector", label_visibility="collapsed"
+)
+
+✅ Conclusión
+Tu log confirma los tres problemas principales:
+
+ArrowInvalid → columnas mixtas deben convertirse a string.
+
+use_container_width → reemplazar por width.
+
+label vacío → dar texto o colapsar con label_visibility.
+
+Corrigiendo estos puntos en app.py, el servidor debería responder sin caídas y sin warnings.
+
+'''
