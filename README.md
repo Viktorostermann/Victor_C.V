@@ -29,7 +29,7 @@
   Finding jobs in Software Development</li>
   <br>
   <li>💬 <b>Ask me about:</b>  
-  Linux, Windows, Python, Git & GitHub, VS Code, Arduino, Virtual Machines, MySQL, ORM, SAP MM</li>
+   Linux, Windows, Python, Git & GitHub, VS Code, Arduino, Virtual Machines, MySQL, ORM, SAP MM</li>
   <br>
   <li>🔭 <b>Others:</b>  
   Spanish (native), Croatian (B1), English (B2)</li>
