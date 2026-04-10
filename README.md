@@ -25,8 +25,8 @@
   Software Development (Backend / Frontend) & Deployment automation, Ingenieria de Sistemas</li>
 
   <br>
-  <li>🤔 <b>I’m looking for help with:</b>  
-  Finding my first job in Software Development</li>
+  <li>🤔 <b>I’m looking for help with: </b>  
+  Finding jobs in Software Development</li>
   <br>
   <li>💬 <b>Ask me about:</b>  
   Linux, Windows, Python, Git & GitHub, VS Code, Arduino, Virtual Machines, MySQL, ORM, SAP MM</li>
